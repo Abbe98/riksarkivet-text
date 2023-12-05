@@ -1,0 +1,4090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-11-18T16:09:47.884+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="4115" WIDTH="5192">
+         <TopMargin HEIGHT="0" WIDTH="5192" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="4115" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="4115" WIDTH="0" VPOS="0" HPOS="5192"/>
+         <BottomMargin HEIGHT="0" WIDTH="5192" VPOS="4115" HPOS="0"/>
+         <PrintSpace HEIGHT="4115" WIDTH="5192" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="3674" WIDTH="1950" VPOS="208" HPOS="540">
+               <Shape>
+                  <Polygon POINTS="540,208 540,3882 2490,3882 2490,208"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="608,262 702,260 796,260 890,260 984,260 1078,260 1172,260 1266,262 1360,262 1454,264 1549,265 1643,267 1737,268 1831,270 1925,274 2019,276 2113,278 2207,281 2301,284 2395,288 2490,290"
+                         HEIGHT="108"
+                         WIDTH="1882"
+                         VPOS="208"
+                         HPOS="608">
+                  <String HEIGHT="108"
+                          WIDTH="363"
+                          VPOS="208"
+                          HPOS="575"
+                          CONTENT="Dahlin,"/>
+                  <SP HEIGHT="108" WIDTH="33" VPOS="208" HPOS="938"/>
+                  <String HEIGHT="108"
+                          WIDTH="264"
+                          VPOS="208"
+                          HPOS="839"
+                          CONTENT="båda"/>
+                  <SP HEIGHT="108" WIDTH="33" VPOS="208" HPOS="1103"/>
+                  <String HEIGHT="108"
+                          WIDTH="330"
+                          VPOS="208"
+                          HPOS="1004"
+                          CONTENT="boende"/>
+                  <SP HEIGHT="108" WIDTH="33" VPOS="208" HPOS="1334"/>
+                  <String HEIGHT="108" WIDTH="165" VPOS="208" HPOS="1235" CONTENT="å"/>
+                  <SP HEIGHT="108" WIDTH="33" VPOS="208" HPOS="1400"/>
+                  <String HEIGHT="108"
+                          WIDTH="330"
+                          VPOS="208"
+                          HPOS="1301"
+                          CONTENT="torget"/>
+                  <SP HEIGHT="108" WIDTH="33" VPOS="208" HPOS="1632"/>
+                  <String HEIGHT="108"
+                          WIDTH="297"
+                          VPOS="208"
+                          HPOS="1532"
+                          CONTENT="Burås"/>
+                  <SP HEIGHT="108" WIDTH="33" VPOS="208" HPOS="1830"/>
+                  <String HEIGHT="108" WIDTH="165" VPOS="208" HPOS="1731" CONTENT="i"/>
+                  <SP HEIGHT="108" WIDTH="33" VPOS="208" HPOS="1896"/>
+                  <String HEIGHT="108"
+                          WIDTH="627"
+                          VPOS="208"
+                          HPOS="1797"
+                          CONTENT="Galgkrogsbergen"/>
+                  <SP HEIGHT="108" WIDTH="33" VPOS="208" HPOS="2424"/>
+                  <String HEIGHT="108"
+                          WIDTH="198"
+                          VPOS="208"
+                          HPOS="2292"
+                          CONTENT="inom"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="604,380 696,376 788,374 880,370 972,368 1064,366 1156,364 1248,364 1340,363 1432,362 1524,362 1616,364 1708,364 1800,366 1892,367 1984,370 2076,372 2168,375 2260,378 2352,382 2444,386"
+                         HEIGHT="91"
+                         WIDTH="1840"
+                         VPOS="317"
+                         HPOS="604">
+                  <String HEIGHT="91"
+                          WIDTH="321"
+                          VPOS="317"
+                          HPOS="575"
+                          CONTENT="Örgryte"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="896"/>
+                  <String HEIGHT="91"
+                          WIDTH="321"
+                          VPOS="317"
+                          HPOS="808"
+                          CONTENT="socken,"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="1130"/>
+                  <String HEIGHT="91"
+                          WIDTH="204"
+                          VPOS="317"
+                          HPOS="1042"
+                          CONTENT="för"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="1247"/>
+                  <String HEIGHT="91"
+                          WIDTH="204"
+                          VPOS="317"
+                          HPOS="1159"
+                          CONTENT="det"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="1363"/>
+                  <String HEIGHT="91" WIDTH="175" VPOS="317" HPOS="1276" CONTENT="de"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="1451"/>
+                  <String HEIGHT="91"
+                          WIDTH="234"
+                          VPOS="317"
+                          HPOS="1363"
+                          CONTENT="till"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="1597"/>
+                  <String HEIGHT="91"
+                          WIDTH="234"
+                          VPOS="317"
+                          HPOS="1509"
+                          CONTENT="salu"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="1743"/>
+                  <String HEIGHT="91"
+                          WIDTH="350"
+                          VPOS="317"
+                          HPOS="1655"
+                          CONTENT="utbjudit"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="2006"/>
+                  <String HEIGHT="91" WIDTH="146" VPOS="317" HPOS="1918" CONTENT="1"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="2064"/>
+                  <String HEIGHT="91"
+                          WIDTH="204"
+                          VPOS="317"
+                          HPOS="1977"
+                          CONTENT="1/2"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="2181"/>
+                  <String HEIGHT="91" WIDTH="146" VPOS="317" HPOS="2094" CONTENT="℔"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="2240"/>
+                  <String HEIGHT="91"
+                          WIDTH="263"
+                          VPOS="317"
+                          HPOS="2152"
+                          CONTENT="smör,"/>
+                  <SP HEIGHT="91" WIDTH="29" VPOS="317" HPOS="2415"/>
+                  <String HEIGHT="91"
+                          WIDTH="146"
+                          VPOS="317"
+                          HPOS="2298"
+                          CONTENT="för"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="602,494 694,490 786,487 878,484 971,482 1063,482 1155,480 1248,478 1340,478 1432,478 1525,478 1617,478 1709,478 1801,478 1894,478 1986,478 2078,478 2171,478 2263,478 2355,478 2448,478"
+                         HEIGHT="85"
+                         WIDTH="1846"
+                         VPOS="432"
+                         HPOS="602">
+                  <String HEIGHT="85"
+                          WIDTH="322"
+                          VPOS="432"
+                          HPOS="573"
+                          CONTENT="åtkomst"/>
+                  <SP HEIGHT="85" WIDTH="29" VPOS="432" HPOS="895"/>
+                  <String HEIGHT="85"
+                          WIDTH="352"
+                          VPOS="432"
+                          HPOS="807"
+                          CONTENT="hvartill"/>
+                  <SP HEIGHT="85" WIDTH="29" VPOS="432" HPOS="1159"/>
+                  <String HEIGHT="85" WIDTH="176" VPOS="432" HPOS="1071" CONTENT="de"/>
+                  <SP HEIGHT="85" WIDTH="29" VPOS="432" HPOS="1247"/>
+                  <String HEIGHT="85" WIDTH="176" VPOS="432" HPOS="1159" CONTENT="ej"/>
+                  <SP HEIGHT="85" WIDTH="29" VPOS="432" HPOS="1335"/>
+                  <String HEIGHT="85"
+                          WIDTH="264"
+                          VPOS="432"
+                          HPOS="1247"
+                          CONTENT="kunde"/>
+                  <SP HEIGHT="85" WIDTH="29" VPOS="432" HPOS="1510"/>
+                  <String HEIGHT="85"
+                          WIDTH="381"
+                          VPOS="432"
+                          HPOS="1422"
+                          CONTENT="redogöra;"/>
+                  <SP HEIGHT="85" WIDTH="29" VPOS="432" HPOS="1803"/>
+                  <String HEIGHT="85"
+                          WIDTH="205"
+                          VPOS="432"
+                          HPOS="1715"
+                          CONTENT="och"/>
+                  <SP HEIGHT="85" WIDTH="29" VPOS="432" HPOS="1921"/>
+                  <String HEIGHT="85"
+                          WIDTH="264"
+                          VPOS="432"
+                          HPOS="1833"
+                          CONTENT="hafva"/>
+                  <SP HEIGHT="85" WIDTH="29" VPOS="432" HPOS="2096"/>
+                  <String HEIGHT="85" WIDTH="176" VPOS="432" HPOS="2008" CONTENT="de"/>
+                  <SP HEIGHT="85" WIDTH="29" VPOS="432" HPOS="2184"/>
+                  <String HEIGHT="85"
+                          WIDTH="205"
+                          VPOS="432"
+                          HPOS="2096"
+                          CONTENT="vid"/>
+                  <SP HEIGHT="85" WIDTH="29" VPOS="432" HPOS="2301"/>
+                  <String HEIGHT="85"
+                          WIDTH="205"
+                          VPOS="432"
+                          HPOS="2214"
+                          CONTENT="det"/>
+                  <SP HEIGHT="85" WIDTH="29" VPOS="432" HPOS="2419"/>
+                  <String HEIGHT="85"
+                          WIDTH="147"
+                          VPOS="432"
+                          HPOS="2301"
+                          CONTENT="med"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="590,618 638,616 686,612 734,610 782,608 831,606 879,604 927,603 975,602 1023,601 1072,600 1120,600 1168,600 1216,598 1264,598 1313,598 1361,597 1409,596 1457,596 1505,594 1554,592"
+                         HEIGHT="104"
+                         WIDTH="964"
+                         VPOS="540"
+                         HPOS="590">
+                  <String HEIGHT="104"
+                          WIDTH="218"
+                          VPOS="540"
+                          HPOS="559"
+                          CONTENT="dem"/>
+                  <SP HEIGHT="104" WIDTH="31" VPOS="540" HPOS="777"/>
+                  <String HEIGHT="104"
+                          WIDTH="404"
+                          VPOS="540"
+                          HPOS="683"
+                          CONTENT="anställda"/>
+                  <SP HEIGHT="104" WIDTH="31" VPOS="540" HPOS="1088"/>
+                  <String HEIGHT="104"
+                          WIDTH="311"
+                          VPOS="540"
+                          HPOS="994"
+                          CONTENT="förhör"/>
+                  <SP HEIGHT="104" WIDTH="31" VPOS="540" HPOS="1305"/>
+                  <String HEIGHT="104"
+                          WIDTH="373"
+                          VPOS="540"
+                          HPOS="1181"
+                          CONTENT="uppgifvit:"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="590,724 683,719 776,716 869,712 962,710 1055,707 1148,704 1241,702 1334,700 1427,700 1520,698 1613,696 1706,694 1799,692 1892,690 1985,688 2078,685 2171,682 2264,679 2357,676 2450,672"
+                         HEIGHT="127"
+                         WIDTH="1860"
+                         VPOS="622"
+                         HPOS="590">
+                  <String HEIGHT="127" WIDTH="174" VPOS="622" HPOS="561" CONTENT="1o"/>
+                  <SP HEIGHT="127" WIDTH="29" VPOS="622" HPOS="735"/>
+                  <String HEIGHT="127"
+                          WIDTH="349"
+                          VPOS="622"
+                          HPOS="648"
+                          CONTENT="Persson:"/>
+                  <SP HEIGHT="127" WIDTH="29" VPOS="622" HPOS="997"/>
+                  <String HEIGHT="127"
+                          WIDTH="203"
+                          VPOS="622"
+                          HPOS="910"
+                          CONTENT="att"/>
+                  <SP HEIGHT="127" WIDTH="29" VPOS="622" HPOS="1113"/>
+                  <String HEIGHT="127"
+                          WIDTH="233"
+                          VPOS="622"
+                          HPOS="1026"
+                          CONTENT="han,"/>
+                  <SP HEIGHT="127" WIDTH="29" VPOS="622" HPOS="1258"/>
+                  <String HEIGHT="127"
+                          WIDTH="203"
+                          VPOS="622"
+                          HPOS="1171"
+                          CONTENT="som"/>
+                  <SP HEIGHT="127" WIDTH="29" VPOS="622" HPOS="1375"/>
+                  <String HEIGHT="127"
+                          WIDTH="349"
+                          VPOS="622"
+                          HPOS="1288"
+                          CONTENT="onsdagen"/>
+                  <SP HEIGHT="127" WIDTH="29" VPOS="622" HPOS="1636"/>
+                  <String HEIGHT="127"
+                          WIDTH="203"
+                          VPOS="622"
+                          HPOS="1549"
+                          CONTENT="den"/>
+                  <SP HEIGHT="127" WIDTH="29" VPOS="622" HPOS="1753"/>
+                  <String HEIGHT="127"
+                          WIDTH="174"
+                          VPOS="622"
+                          HPOS="1665"
+                          CONTENT="18"/>
+                  <SP HEIGHT="127" WIDTH="29" VPOS="622" HPOS="1840"/>
+                  <String HEIGHT="127"
+                          WIDTH="174"
+                          VPOS="622"
+                          HPOS="1753"
+                          CONTENT="ds"/>
+                  <SP HEIGHT="127" WIDTH="29" VPOS="622" HPOS="1927"/>
+                  <String HEIGHT="127"
+                          WIDTH="262"
+                          VPOS="622"
+                          HPOS="1840"
+                          CONTENT="varit"/>
+                  <SP HEIGHT="127" WIDTH="29" VPOS="622" HPOS="2101"/>
+                  <String HEIGHT="127"
+                          WIDTH="407"
+                          VPOS="622"
+                          HPOS="2014"
+                          CONTENT="sysselsatt"/>
+                  <SP HEIGHT="127" WIDTH="29" VPOS="622" HPOS="2421"/>
+                  <String HEIGHT="127"
+                          WIDTH="145"
+                          VPOS="622"
+                          HPOS="2305"
+                          CONTENT="med"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="590,834 684,828 778,824 872,820 966,814 1061,812 1155,808 1249,805 1343,802 1437,800 1532,798 1626,796 1720,793 1814,792 1908,789 2003,788 2097,786 2191,784 2285,782 2379,779 2474,776"
+                         HEIGHT="133"
+                         WIDTH="1884"
+                         VPOS="726"
+                         HPOS="590">
+                  <String HEIGHT="133"
+                          WIDTH="304"
+                          VPOS="726"
+                          HPOS="560"
+                          CONTENT="arbete"/>
+                  <SP HEIGHT="133" WIDTH="30" VPOS="726" HPOS="863"/>
+                  <String HEIGHT="133"
+                          WIDTH="213"
+                          VPOS="726"
+                          HPOS="772"
+                          CONTENT="vid"/>
+                  <SP HEIGHT="133" WIDTH="30" VPOS="726" HPOS="985"/>
+                  <String HEIGHT="133"
+                          WIDTH="456"
+                          VPOS="726"
+                          HPOS="894"
+                          CONTENT="Skeppsbron,"/>
+                  <SP HEIGHT="133" WIDTH="30" VPOS="726" HPOS="1350"/>
+                  <String HEIGHT="133"
+                          WIDTH="304"
+                          VPOS="726"
+                          HPOS="1259"
+                          CONTENT="dervid"/>
+                  <SP HEIGHT="133" WIDTH="30" VPOS="726" HPOS="1562"/>
+                  <String HEIGHT="133"
+                          WIDTH="243"
+                          VPOS="726"
+                          HPOS="1471"
+                          CONTENT="sett"/>
+                  <SP HEIGHT="133" WIDTH="30" VPOS="726" HPOS="1714"/>
+                  <String HEIGHT="133"
+                          WIDTH="456"
+                          VPOS="726"
+                          HPOS="1623"
+                          CONTENT="ofvannämnde"/>
+                  <SP HEIGHT="133" WIDTH="30" VPOS="726" HPOS="2079"/>
+                  <String HEIGHT="133"
+                          WIDTH="273"
+                          VPOS="726"
+                          HPOS="1988"
+                          CONTENT="Claes"/>
+                  <SP HEIGHT="133" WIDTH="30" VPOS="726" HPOS="2261"/>
+                  <String HEIGHT="133"
+                          WIDTH="334"
+                          VPOS="726"
+                          HPOS="2140"
+                          CONTENT="Johansson"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="582,946 674,940 767,935 859,930 952,926 1045,922 1137,918 1230,913 1322,910 1415,907 1508,904 1600,900 1693,898 1785,896 1878,893 1971,891 2063,890 2156,887 2248,886 2341,884 2434,882"
+                         HEIGHT="142"
+                         WIDTH="1852"
+                         VPOS="830"
+                         HPOS="582">
+                  <String HEIGHT="142"
+                          WIDTH="239"
+                          VPOS="830"
+                          HPOS="552"
+                          CONTENT="bära"/>
+                  <SP HEIGHT="142" WIDTH="30" VPOS="830" HPOS="791"/>
+                  <String HEIGHT="142"
+                          WIDTH="269"
+                          VPOS="830"
+                          HPOS="701"
+                          CONTENT="något"/>
+                  <SP HEIGHT="142" WIDTH="30" VPOS="830" HPOS="970"/>
+                  <String HEIGHT="142"
+                          WIDTH="388"
+                          VPOS="830"
+                          HPOS="881"
+                          CONTENT="derifrån;"/>
+                  <SP HEIGHT="142" WIDTH="30" VPOS="830" HPOS="1269"/>
+                  <String HEIGHT="142"
+                          WIDTH="209"
+                          VPOS="830"
+                          HPOS="1179"
+                          CONTENT="att"/>
+                  <SP HEIGHT="142" WIDTH="30" VPOS="830" HPOS="1389"/>
+                  <String HEIGHT="142"
+                          WIDTH="209"
+                          VPOS="830"
+                          HPOS="1299"
+                          CONTENT="han"/>
+                  <SP HEIGHT="142" WIDTH="30" VPOS="830" HPOS="1508"/>
+                  <String HEIGHT="142"
+                          WIDTH="269"
+                          VPOS="830"
+                          HPOS="1418"
+                          CONTENT="följt"/>
+                  <SP HEIGHT="142" WIDTH="30" VPOS="830" HPOS="1687"/>
+                  <String HEIGHT="142"
+                          WIDTH="269"
+                          VPOS="830"
+                          HPOS="1598"
+                          CONTENT="efter"/>
+                  <SP HEIGHT="142" WIDTH="30" VPOS="830" HPOS="1866"/>
+                  <String HEIGHT="142"
+                          WIDTH="269"
+                          VPOS="830"
+                          HPOS="1777"
+                          CONTENT="honom"/>
+                  <SP HEIGHT="142" WIDTH="30" VPOS="830" HPOS="2046"/>
+                  <String HEIGHT="142"
+                          WIDTH="209"
+                          VPOS="830"
+                          HPOS="1956"
+                          CONTENT="och"/>
+                  <SP HEIGHT="142" WIDTH="30" VPOS="830" HPOS="2165"/>
+                  <String HEIGHT="142"
+                          WIDTH="299"
+                          VPOS="830"
+                          HPOS="2076"
+                          CONTENT="frågat"/>
+                  <SP HEIGHT="142" WIDTH="30" VPOS="830" HPOS="2374"/>
+                  <String HEIGHT="142"
+                          WIDTH="179"
+                          VPOS="830"
+                          HPOS="2255"
+                          CONTENT="hvad"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="580,1068 673,1058 767,1048 861,1041 955,1035 1049,1029 1142,1024 1236,1019 1330,1016 1424,1012 1518,1010 1611,1006 1705,1004 1799,1002 1893,1000 1987,997 2080,994 2174,992 2268,988 2362,984 2456,980"
+                         HEIGHT="166"
+                         WIDTH="1876"
+                         VPOS="928"
+                         HPOS="580">
+                  <String HEIGHT="166"
+                          WIDTH="208"
+                          VPOS="928"
+                          HPOS="550"
+                          CONTENT="det"/>
+                  <SP HEIGHT="166" WIDTH="30" VPOS="928" HPOS="759"/>
+                  <String HEIGHT="166"
+                          WIDTH="238"
+                          VPOS="928"
+                          HPOS="669"
+                          CONTENT="var,"/>
+                  <SP HEIGHT="166" WIDTH="30" VPOS="928" HPOS="908"/>
+                  <String HEIGHT="166" WIDTH="179" VPOS="928" HPOS="818" CONTENT="då"/>
+                  <SP HEIGHT="166" WIDTH="30" VPOS="928" HPOS="997"/>
+                  <String HEIGHT="166"
+                          WIDTH="387"
+                          VPOS="928"
+                          HPOS="908"
+                          CONTENT="Johansson"/>
+                  <SP HEIGHT="166" WIDTH="30" VPOS="928" HPOS="1295"/>
+                  <String HEIGHT="166"
+                          WIDTH="357"
+                          VPOS="928"
+                          HPOS="1205"
+                          CONTENT="upplyst,"/>
+                  <SP HEIGHT="166" WIDTH="30" VPOS="928" HPOS="1563"/>
+                  <String HEIGHT="166"
+                          WIDTH="208"
+                          VPOS="928"
+                          HPOS="1473"
+                          CONTENT="att"/>
+                  <SP HEIGHT="166" WIDTH="30" VPOS="928" HPOS="1682"/>
+                  <String HEIGHT="166"
+                          WIDTH="208"
+                          VPOS="928"
+                          HPOS="1592"
+                          CONTENT="det"/>
+                  <SP HEIGHT="166" WIDTH="30" VPOS="928" HPOS="1801"/>
+                  <String HEIGHT="166"
+                          WIDTH="208"
+                          VPOS="928"
+                          HPOS="1712"
+                          CONTENT="var"/>
+                  <SP HEIGHT="166" WIDTH="30" VPOS="928" HPOS="1920"/>
+                  <String HEIGHT="166"
+                          WIDTH="179"
+                          VPOS="928"
+                          HPOS="1831"
+                          CONTENT="en"/>
+                  <SP HEIGHT="166" WIDTH="30" VPOS="928" HPOS="2009"/>
+                  <String HEIGHT="166"
+                          WIDTH="506"
+                          VPOS="928"
+                          HPOS="1920"
+                          CONTENT="smörfjerding,"/>
+                  <SP HEIGHT="166" WIDTH="30" VPOS="928" HPOS="2426"/>
+                  <String HEIGHT="166"
+                          WIDTH="149"
+                          VPOS="928"
+                          HPOS="2307"
+                          CONTENT="som"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="584,1174 678,1164 772,1154 866,1146 960,1140 1054,1134 1148,1128 1242,1124 1336,1121 1430,1118 1525,1115 1619,1113 1713,1110 1807,1108 1901,1107 1995,1106 2089,1104 2183,1102 2277,1099 2371,1096 2466,1092"
+                         HEIGHT="158"
+                         WIDTH="1882"
+                         VPOS="1041"
+                         HPOS="584">
+                  <String HEIGHT="158"
+                          WIDTH="206"
+                          VPOS="1041"
+                          HPOS="555"
+                          CONTENT="han"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="1041" HPOS="760"/>
+                  <String HEIGHT="158"
+                          WIDTH="294"
+                          VPOS="1041"
+                          HPOS="672"
+                          CONTENT="skulle"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="1041" HPOS="966"/>
+                  <String HEIGHT="158"
+                          WIDTH="235"
+                          VPOS="1041"
+                          HPOS="878"
+                          CONTENT="söka"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="1041" HPOS="1113"/>
+                  <String HEIGHT="158"
+                          WIDTH="294"
+                          VPOS="1041"
+                          HPOS="1025"
+                          CONTENT="sälja;"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="1041" HPOS="1319"/>
+                  <String HEIGHT="158"
+                          WIDTH="206"
+                          VPOS="1041"
+                          HPOS="1231"
+                          CONTENT="att"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="1041" HPOS="1437"/>
+                  <String HEIGHT="158"
+                          WIDTH="206"
+                          VPOS="1041"
+                          HPOS="1349"
+                          CONTENT="han"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="1041" HPOS="1554"/>
+                  <String HEIGHT="158"
+                          WIDTH="265"
+                          VPOS="1041"
+                          HPOS="1466"
+                          CONTENT="gjort"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="1041" HPOS="1731"/>
+                  <String HEIGHT="158"
+                          WIDTH="382"
+                          VPOS="1041"
+                          HPOS="1643"
+                          CONTENT="Johansson"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="1041" HPOS="2025"/>
+                  <String HEIGHT="158"
+                          WIDTH="353"
+                          VPOS="1041"
+                          HPOS="1937"
+                          CONTENT="sällskap"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="1041" HPOS="2290"/>
+                  <String HEIGHT="158"
+                          WIDTH="235"
+                          VPOS="1041"
+                          HPOS="2201"
+                          CONTENT="till"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="1041" HPOS="2437"/>
+                  <String HEIGHT="158"
+                          WIDTH="147"
+                          VPOS="1041"
+                          HPOS="2319"
+                          CONTENT="Ba¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="Bazargatan,"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="592,1276 685,1270 778,1264 871,1259 964,1254 1057,1248 1150,1244 1243,1240 1336,1236 1429,1234 1523,1230 1616,1227 1709,1224 1802,1222 1895,1218 1988,1216 2081,1214 2174,1212 2267,1210 2360,1208 2454,1206"
+                         HEIGHT="146"
+                         WIDTH="1862"
+                         VPOS="1155"
+                         HPOS="592">
+                  <String HEIGHT="146"
+                          WIDTH="372"
+                          VPOS="1155"
+                          HPOS="563"
+                          CONTENT="zargatan,"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="Bazargatan,"/>
+                  <SP HEIGHT="146" WIDTH="29" VPOS="1155" HPOS="936"/>
+                  <String HEIGHT="146"
+                          WIDTH="201"
+                          VPOS="1155"
+                          HPOS="850"
+                          CONTENT="der"/>
+                  <SP HEIGHT="146" WIDTH="29" VPOS="1155" HPOS="1050"/>
+                  <String HEIGHT="146"
+                          WIDTH="172"
+                          VPOS="1155"
+                          HPOS="964"
+                          CONTENT="de"/>
+                  <SP HEIGHT="146" WIDTH="29" VPOS="1155" HPOS="1136"/>
+                  <String HEIGHT="146"
+                          WIDTH="286"
+                          VPOS="1155"
+                          HPOS="1050"
+                          CONTENT="ingått"/>
+                  <SP HEIGHT="146" WIDTH="29" VPOS="1155" HPOS="1337"/>
+                  <String HEIGHT="146"
+                          WIDTH="143"
+                          VPOS="1155"
+                          HPOS="1251"
+                          CONTENT="i"/>
+                  <SP HEIGHT="146" WIDTH="29" VPOS="1155" HPOS="1394"/>
+                  <String HEIGHT="146"
+                          WIDTH="172"
+                          VPOS="1155"
+                          HPOS="1308"
+                          CONTENT="en"/>
+                  <SP HEIGHT="146" WIDTH="29" VPOS="1155" HPOS="1480"/>
+                  <String HEIGHT="146"
+                          WIDTH="372"
+                          VPOS="1155"
+                          HPOS="1394"
+                          CONTENT="portgång,"/>
+                  <SP HEIGHT="146" WIDTH="29" VPOS="1155" HPOS="1766"/>
+                  <String HEIGHT="146"
+                          WIDTH="372"
+                          VPOS="1155"
+                          HPOS="1681"
+                          CONTENT="hvarefter"/>
+                  <SP HEIGHT="146" WIDTH="29" VPOS="1155" HPOS="2053"/>
+                  <String HEIGHT="146"
+                          WIDTH="372"
+                          VPOS="1155"
+                          HPOS="1967"
+                          CONTENT="Johansson"/>
+                  <SP HEIGHT="146" WIDTH="29" VPOS="1155" HPOS="2339"/>
+                  <String HEIGHT="146"
+                          WIDTH="229"
+                          VPOS="1155"
+                          HPOS="2225"
+                          CONTENT="öppnat"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="576,1388 668,1382 761,1376 853,1371 946,1366 1038,1361 1131,1358 1223,1352 1316,1349 1408,1346 1501,1342 1593,1339 1686,1336 1778,1334 1871,1332 1963,1330 2056,1328 2148,1326 2241,1326 2333,1326 2426,1326"
+                         HEIGHT="140"
+                         WIDTH="1850"
+                         VPOS="1274"
+                         HPOS="576">
+                  <String HEIGHT="140"
+                          WIDTH="432"
+                          VPOS="1274"
+                          HPOS="545"
+                          CONTENT="fjerdingen"/>
+                  <SP HEIGHT="140" WIDTH="31" VPOS="1274" HPOS="977"/>
+                  <String HEIGHT="140"
+                          WIDTH="216"
+                          VPOS="1274"
+                          HPOS="884"
+                          CONTENT="och"/>
+                  <SP HEIGHT="140" WIDTH="31" VPOS="1274" HPOS="1100"/>
+                  <String HEIGHT="140"
+                          WIDTH="339"
+                          VPOS="1274"
+                          HPOS="1008"
+                          CONTENT="Persson"/>
+                  <SP HEIGHT="140" WIDTH="31" VPOS="1274" HPOS="1347"/>
+                  <String HEIGHT="140"
+                          WIDTH="278"
+                          VPOS="1274"
+                          HPOS="1254"
+                          CONTENT="derur"/>
+                  <SP HEIGHT="140" WIDTH="31" VPOS="1274" HPOS="1532"/>
+                  <String HEIGHT="140"
+                          WIDTH="278"
+                          VPOS="1274"
+                          HPOS="1439"
+                          CONTENT="tagit"/>
+                  <SP HEIGHT="140" WIDTH="31" VPOS="1274" HPOS="1717"/>
+                  <String HEIGHT="140"
+                          WIDTH="185"
+                          VPOS="1274"
+                          HPOS="1624"
+                          CONTENT="en"/>
+                  <SP HEIGHT="140" WIDTH="31" VPOS="1274" HPOS="1809"/>
+                  <String HEIGHT="140"
+                          WIDTH="216"
+                          VPOS="1274"
+                          HPOS="1717"
+                          CONTENT="del"/>
+                  <SP HEIGHT="140" WIDTH="31" VPOS="1274" HPOS="1933"/>
+                  <String HEIGHT="140"
+                          WIDTH="278"
+                          VPOS="1274"
+                          HPOS="1840"
+                          CONTENT="smör,"/>
+                  <SP HEIGHT="140" WIDTH="31" VPOS="1274" HPOS="2118"/>
+                  <String HEIGHT="140"
+                          WIDTH="216"
+                          VPOS="1274"
+                          HPOS="2025"
+                          CONTENT="som"/>
+                  <SP HEIGHT="140" WIDTH="31" VPOS="1274" HPOS="2241"/>
+                  <String HEIGHT="140"
+                          WIDTH="216"
+                          VPOS="1274"
+                          HPOS="2149"
+                          CONTENT="han"/>
+                  <SP HEIGHT="140" WIDTH="31" VPOS="1274" HPOS="2364"/>
+                  <String HEIGHT="140"
+                          WIDTH="185"
+                          VPOS="1274"
+                          HPOS="2241"
+                          CONTENT="lagt"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="582,1502 674,1498 766,1493 858,1489 950,1484 1042,1479 1134,1474 1226,1469 1318,1466 1410,1460 1503,1456 1595,1452 1687,1448 1779,1446 1871,1442 1963,1440 2055,1436 2147,1436 2239,1434 2331,1432 2424,1432"
+                         HEIGHT="148"
+                         WIDTH="1842"
+                         VPOS="1380"
+                         HPOS="582">
+                  <String HEIGHT="148" WIDTH="159" VPOS="1380" HPOS="550" CONTENT="i"/>
+                  <SP HEIGHT="148" WIDTH="32" VPOS="1380" HPOS="709"/>
+                  <String HEIGHT="148"
+                          WIDTH="222"
+                          VPOS="1380"
+                          HPOS="614"
+                          CONTENT="sin"/>
+                  <SP HEIGHT="148" WIDTH="32" VPOS="1380" HPOS="836"/>
+                  <String HEIGHT="148"
+                          WIDTH="349"
+                          VPOS="1380"
+                          HPOS="741"
+                          CONTENT="näsduk,"/>
+                  <SP HEIGHT="148" WIDTH="32" VPOS="1380" HPOS="1090"/>
+                  <String HEIGHT="148"
+                          WIDTH="349"
+                          VPOS="1380"
+                          HPOS="995"
+                          CONTENT="hvilken"/>
+                  <SP HEIGHT="148" WIDTH="32" VPOS="1380" HPOS="1344"/>
+                  <String HEIGHT="148"
+                          WIDTH="222"
+                          VPOS="1380"
+                          HPOS="1249"
+                          CONTENT="han"/>
+                  <SP HEIGHT="148" WIDTH="32" VPOS="1380" HPOS="1471"/>
+                  <String HEIGHT="148"
+                          WIDTH="318"
+                          VPOS="1380"
+                          HPOS="1376"
+                          CONTENT="lemnat"/>
+                  <SP HEIGHT="148" WIDTH="32" VPOS="1380" HPOS="1694"/>
+                  <String HEIGHT="148"
+                          WIDTH="445"
+                          VPOS="1380"
+                          HPOS="1598"
+                          CONTENT="Johansson;"/>
+                  <SP HEIGHT="148" WIDTH="32" VPOS="1380" HPOS="2043"/>
+                  <String HEIGHT="148"
+                          WIDTH="222"
+                          VPOS="1380"
+                          HPOS="1948"
+                          CONTENT="att"/>
+                  <SP HEIGHT="148" WIDTH="32" VPOS="1380" HPOS="2170"/>
+                  <String HEIGHT="148"
+                          WIDTH="222"
+                          VPOS="1380"
+                          HPOS="2075"
+                          CONTENT="han"/>
+                  <SP HEIGHT="148" WIDTH="32" VPOS="1380" HPOS="2297"/>
+                  <String HEIGHT="148"
+                          WIDTH="191"
+                          VPOS="1380"
+                          HPOS="2202"
+                          CONTENT="af"/>
+                  <SP HEIGHT="148" WIDTH="32" VPOS="1380" HPOS="2392"/>
+                  <String HEIGHT="148"
+                          WIDTH="159"
+                          VPOS="1380"
+                          HPOS="2265"
+                          CONTENT="Jo¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="Johansson"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="582,1618 674,1612 767,1606 859,1602 952,1596 1045,1591 1137,1587 1230,1582 1322,1578 1415,1574 1508,1570 1600,1566 1693,1562 1785,1559 1878,1556 1971,1552 2063,1549 2156,1546 2248,1544 2341,1541 2434,1538"
+                         HEIGHT="156"
+                         WIDTH="1852"
+                         VPOS="1487"
+                         HPOS="582">
+                  <String HEIGHT="156"
+                          WIDTH="334"
+                          VPOS="1487"
+                          HPOS="552"
+                          CONTENT="hansson"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="Johansson"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1487" HPOS="886"/>
+                  <String HEIGHT="156"
+                          WIDTH="364"
+                          VPOS="1487"
+                          HPOS="795"
+                          CONTENT="erhållit"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1487" HPOS="1159"/>
+                  <String HEIGHT="156"
+                          WIDTH="152"
+                          VPOS="1487"
+                          HPOS="1068"
+                          CONTENT="2"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1487" HPOS="1220"/>
+                  <String HEIGHT="156"
+                          WIDTH="304"
+                          VPOS="1487"
+                          HPOS="1128"
+                          CONTENT="Kronor"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1487" HPOS="1432"/>
+                  <String HEIGHT="156"
+                          WIDTH="182"
+                          VPOS="1487"
+                          HPOS="1341"
+                          CONTENT="af"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1487" HPOS="1523"/>
+                  <String HEIGHT="156"
+                          WIDTH="182"
+                          VPOS="1487"
+                          HPOS="1432"
+                          CONTENT="de"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1487" HPOS="1614"/>
+                  <String HEIGHT="156"
+                          WIDTH="425"
+                          VPOS="1487"
+                          HPOS="1523"
+                          CONTENT="penningar,"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1487" HPOS="1948"/>
+                  <String HEIGHT="156"
+                          WIDTH="213"
+                          VPOS="1487"
+                          HPOS="1857"
+                          CONTENT="som"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1487" HPOS="2070"/>
+                  <String HEIGHT="156"
+                          WIDTH="273"
+                          VPOS="1487"
+                          HPOS="1979"
+                          CONTENT="denne"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1487" HPOS="2252"/>
+                  <String HEIGHT="156"
+                          WIDTH="304"
+                          VPOS="1487"
+                          HPOS="2130"
+                          CONTENT="erhållit"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="582,1722 671,1718 761,1711 851,1707 941,1702 1031,1697 1121,1693 1211,1689 1301,1686 1391,1682 1481,1679 1570,1676 1660,1674 1750,1672 1840,1670 1930,1668 2020,1666 2110,1666 2200,1664 2290,1664 2380,1664"
+                         HEIGHT="133"
+                         WIDTH="1798"
+                         VPOS="1614"
+                         HPOS="582">
+                  <String HEIGHT="133"
+                          WIDTH="203"
+                          VPOS="1614"
+                          HPOS="553"
+                          CONTENT="för"/>
+                  <SP HEIGHT="133" WIDTH="29" VPOS="1614" HPOS="756"/>
+                  <String HEIGHT="133"
+                          WIDTH="319"
+                          VPOS="1614"
+                          HPOS="669"
+                          CONTENT="smöret;"/>
+                  <SP HEIGHT="133" WIDTH="29" VPOS="1614" HPOS="988"/>
+                  <String HEIGHT="133"
+                          WIDTH="203"
+                          VPOS="1614"
+                          HPOS="901"
+                          CONTENT="att"/>
+                  <SP HEIGHT="133" WIDTH="29" VPOS="1614" HPOS="1104"/>
+                  <String HEIGHT="133"
+                          WIDTH="232"
+                          VPOS="1614"
+                          HPOS="1017"
+                          CONTENT="han,"/>
+                  <SP HEIGHT="133" WIDTH="29" VPOS="1614" HPOS="1249"/>
+                  <String HEIGHT="133"
+                          WIDTH="174"
+                          VPOS="1614"
+                          HPOS="1162"
+                          CONTENT="då"/>
+                  <SP HEIGHT="133" WIDTH="29" VPOS="1614" HPOS="1336"/>
+                  <String HEIGHT="133"
+                          WIDTH="377"
+                          VPOS="1614"
+                          HPOS="1249"
+                          CONTENT="Johansson"/>
+                  <SP HEIGHT="133" WIDTH="29" VPOS="1614" HPOS="1626"/>
+                  <String HEIGHT="133"
+                          WIDTH="174"
+                          VPOS="1614"
+                          HPOS="1539"
+                          CONTENT="ej"/>
+                  <SP HEIGHT="133" WIDTH="29" VPOS="1614" HPOS="1713"/>
+                  <String HEIGHT="133"
+                          WIDTH="435"
+                          VPOS="1614"
+                          HPOS="1626"
+                          CONTENT="återkommit,"/>
+                  <SP HEIGHT="133" WIDTH="29" VPOS="1614" HPOS="2061"/>
+                  <String HEIGHT="133"
+                          WIDTH="232"
+                          VPOS="1614"
+                          HPOS="1974"
+                          CONTENT="gått"/>
+                  <SP HEIGHT="133" WIDTH="29" VPOS="1614" HPOS="2206"/>
+                  <String HEIGHT="133"
+                          WIDTH="203"
+                          VPOS="1614"
+                          HPOS="2119"
+                          CONTENT="hem"/>
+                  <SP HEIGHT="133" WIDTH="29" VPOS="1614" HPOS="2322"/>
+                  <String HEIGHT="133"
+                          WIDTH="174"
+                          VPOS="1614"
+                          HPOS="2206"
+                          CONTENT="till"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="570,1844 660,1836 751,1829 841,1823 932,1817 1023,1812 1113,1809 1204,1804 1294,1800 1385,1798 1476,1795 1566,1792 1657,1790 1747,1786 1838,1784 1929,1782 2019,1778 2110,1775 2200,1772 2291,1768 2382,1764"
+                         HEIGHT="155"
+                         WIDTH="1812"
+                         VPOS="1714"
+                         HPOS="570">
+                  <String HEIGHT="155"
+                          WIDTH="198"
+                          VPOS="1714"
+                          HPOS="542"
+                          CONTENT="sin"/>
+                  <SP HEIGHT="155" WIDTH="28" VPOS="1714" HPOS="740"/>
+                  <String HEIGHT="155"
+                          WIDTH="283"
+                          VPOS="1714"
+                          HPOS="655"
+                          CONTENT="bostad"/>
+                  <SP HEIGHT="155" WIDTH="28" VPOS="1714" HPOS="938"/>
+                  <String HEIGHT="155"
+                          WIDTH="198"
+                          VPOS="1714"
+                          HPOS="853"
+                          CONTENT="och"/>
+                  <SP HEIGHT="155" WIDTH="28" VPOS="1714" HPOS="1051"/>
+                  <String HEIGHT="155"
+                          WIDTH="255"
+                          VPOS="1714"
+                          HPOS="966"
+                          CONTENT="låtit"/>
+                  <SP HEIGHT="155" WIDTH="28" VPOS="1714" HPOS="1221"/>
+                  <String HEIGHT="155"
+                          WIDTH="396"
+                          VPOS="1714"
+                          HPOS="1136"
+                          CONTENT="fjerdingen"/>
+                  <SP HEIGHT="155" WIDTH="28" VPOS="1714" HPOS="1533"/>
+                  <String HEIGHT="155"
+                          WIDTH="311"
+                          VPOS="1714"
+                          HPOS="1448"
+                          CONTENT="qvarstå"/>
+                  <SP HEIGHT="155" WIDTH="28" VPOS="1714" HPOS="1759"/>
+                  <String HEIGHT="155"
+                          WIDTH="142"
+                          VPOS="1714"
+                          HPOS="1674"
+                          CONTENT="i"/>
+                  <SP HEIGHT="155" WIDTH="28" VPOS="1714" HPOS="1816"/>
+                  <String HEIGHT="155"
+                          WIDTH="425"
+                          VPOS="1714"
+                          HPOS="1731"
+                          CONTENT="portgången,"/>
+                  <SP HEIGHT="155" WIDTH="28" VPOS="1714" HPOS="2156"/>
+                  <String HEIGHT="155"
+                          WIDTH="198"
+                          VPOS="1714"
+                          HPOS="2071"
+                          CONTENT="men"/>
+                  <SP HEIGHT="155" WIDTH="28" VPOS="1714" HPOS="2269"/>
+                  <String HEIGHT="155"
+                          WIDTH="198"
+                          VPOS="1714"
+                          HPOS="2184"
+                          CONTENT="att"/>
+                  <SP HEIGHT="155" WIDTH="28" VPOS="1714" HPOS="2382"/>
+                  <String HEIGHT="155"
+                          WIDTH="113"
+                          VPOS="1714"
+                          HPOS="2269"
+                          CONTENT="då"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="582,1954 673,1950 764,1944 856,1939 947,1935 1039,1931 1130,1926 1221,1922 1313,1918 1404,1913 1496,1910 1587,1906 1678,1902 1770,1900 1861,1896 1953,1892 2044,1889 2135,1886 2227,1884 2318,1881 2410,1878"
+                         HEIGHT="151"
+                         WIDTH="1828"
+                         VPOS="1828"
+                         HPOS="582">
+                  <String HEIGHT="151"
+                          WIDTH="229"
+                          VPOS="1828"
+                          HPOS="549"
+                          CONTENT="han"/>
+                  <SP HEIGHT="151" WIDTH="33" VPOS="1828" HPOS="778"/>
+                  <String HEIGHT="151"
+                          WIDTH="457"
+                          VPOS="1828"
+                          HPOS="680"
+                          CONTENT="påföljande"/>
+                  <SP HEIGHT="151" WIDTH="33" VPOS="1828" HPOS="1137"/>
+                  <String HEIGHT="151"
+                          WIDTH="326"
+                          VPOS="1828"
+                          HPOS="1039"
+                          CONTENT="morgon"/>
+                  <SP HEIGHT="151" WIDTH="33" VPOS="1828" HPOS="1365"/>
+                  <String HEIGHT="151"
+                          WIDTH="163"
+                          VPOS="1828"
+                          HPOS="1268"
+                          CONTENT="i"/>
+                  <SP HEIGHT="151" WIDTH="33" VPOS="1828" HPOS="1431"/>
+                  <String HEIGHT="151"
+                          WIDTH="392"
+                          VPOS="1828"
+                          HPOS="1333"
+                          CONTENT="sällskap"/>
+                  <SP HEIGHT="151" WIDTH="33" VPOS="1828" HPOS="1725"/>
+                  <String HEIGHT="151"
+                          WIDTH="229"
+                          VPOS="1828"
+                          HPOS="1627"
+                          CONTENT="med"/>
+                  <SP HEIGHT="151" WIDTH="33" VPOS="1828" HPOS="1855"/>
+                  <String HEIGHT="151"
+                          WIDTH="326"
+                          VPOS="1828"
+                          HPOS="1757"
+                          CONTENT="Dahlin"/>
+                  <SP HEIGHT="151" WIDTH="33" VPOS="1828" HPOS="2084"/>
+                  <String HEIGHT="151"
+                          WIDTH="392"
+                          VPOS="1828"
+                          HPOS="1986"
+                          CONTENT="infunnit"/>
+                  <SP HEIGHT="151" WIDTH="33" VPOS="1828" HPOS="2377"/>
+                  <String HEIGHT="151"
+                          WIDTH="163"
+                          VPOS="1828"
+                          HPOS="2247"
+                          CONTENT="sig"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="588,2066 678,2060 768,2052 858,2046 949,2039 1039,2033 1129,2028 1220,2024 1310,2020 1400,2016 1491,2012 1581,2008 1671,2005 1761,2002 1852,2000 1942,1997 2032,1994 2123,1992 2213,1988 2303,1986 2394,1984"
+                         HEIGHT="157"
+                         WIDTH="1806"
+                         VPOS="1934"
+                         HPOS="588">
+                  <String HEIGHT="157"
+                          WIDTH="233"
+                          VPOS="1934"
+                          HPOS="559"
+                          CONTENT="der,"/>
+                  <SP HEIGHT="157" WIDTH="29" VPOS="1934" HPOS="792"/>
+                  <String HEIGHT="157"
+                          WIDTH="408"
+                          VPOS="1934"
+                          HPOS="705"
+                          CONTENT="fjerdingen"/>
+                  <SP HEIGHT="157" WIDTH="29" VPOS="1934" HPOS="1112"/>
+                  <String HEIGHT="157"
+                          WIDTH="262"
+                          VPOS="1934"
+                          HPOS="1025"
+                          CONTENT="varit"/>
+                  <SP HEIGHT="157" WIDTH="29" VPOS="1934" HPOS="1287"/>
+                  <String HEIGHT="157"
+                          WIDTH="379"
+                          VPOS="1934"
+                          HPOS="1200"
+                          CONTENT="borttagen"/>
+                  <SP HEIGHT="157" WIDTH="29" VPOS="1934" HPOS="1578"/>
+                  <String HEIGHT="157"
+                          WIDTH="204"
+                          VPOS="1934"
+                          HPOS="1491"
+                          CONTENT="och"/>
+                  <SP HEIGHT="157" WIDTH="29" VPOS="1934" HPOS="1695"/>
+                  <String HEIGHT="157"
+                          WIDTH="291"
+                          VPOS="1934"
+                          HPOS="1608"
+                          CONTENT="endast"/>
+                  <SP HEIGHT="157" WIDTH="29" VPOS="1934" HPOS="1899"/>
+                  <String HEIGHT="157"
+                          WIDTH="204"
+                          VPOS="1934"
+                          HPOS="1811"
+                          CONTENT="ett"/>
+                  <SP HEIGHT="157" WIDTH="29" VPOS="1934" HPOS="2015"/>
+                  <String HEIGHT="157"
+                          WIDTH="291"
+                          VPOS="1934"
+                          HPOS="1928"
+                          CONTENT="stycke"/>
+                  <SP HEIGHT="157" WIDTH="29" VPOS="1934" HPOS="2219"/>
+                  <String HEIGHT="157"
+                          WIDTH="233"
+                          VPOS="1934"
+                          HPOS="2132"
+                          CONTENT="smör"/>
+                  <SP HEIGHT="157" WIDTH="29" VPOS="1934" HPOS="2365"/>
+                  <String HEIGHT="157"
+                          WIDTH="146"
+                          VPOS="1934"
+                          HPOS="2248"
+                          CONTENT="le¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="legat"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="580,2178 669,2172 759,2167 849,2162 939,2156 1029,2152 1118,2146 1208,2141 1298,2135 1388,2131 1478,2126 1567,2122 1657,2118 1747,2114 1837,2111 1927,2106 2016,2104 2106,2102 2196,2100 2286,2098 2376,2096"
+                         HEIGHT="160"
+                         WIDTH="1796"
+                         VPOS="2044"
+                         HPOS="580">
+                  <String HEIGHT="160"
+                          WIDTH="206"
+                          VPOS="2044"
+                          HPOS="551"
+                          CONTENT="gat"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="legat"/>
+                  <SP HEIGHT="160" WIDTH="29" VPOS="2044" HPOS="757"/>
+                  <String HEIGHT="160"
+                          WIDTH="265"
+                          VPOS="2044"
+                          HPOS="668"
+                          CONTENT="qvar,"/>
+                  <SP HEIGHT="160" WIDTH="29" VPOS="2044" HPOS="933"/>
+                  <String HEIGHT="160"
+                          WIDTH="353"
+                          VPOS="2044"
+                          HPOS="845"
+                          CONTENT="inlindat"/>
+                  <SP HEIGHT="160" WIDTH="29" VPOS="2044" HPOS="1198"/>
+                  <String HEIGHT="160"
+                          WIDTH="147"
+                          VPOS="2044"
+                          HPOS="1110"
+                          CONTENT="i"/>
+                  <SP HEIGHT="160" WIDTH="29" VPOS="2044" HPOS="1257"/>
+                  <String HEIGHT="160"
+                          WIDTH="177"
+                          VPOS="2044"
+                          HPOS="1169"
+                          CONTENT="en"/>
+                  <SP HEIGHT="160" WIDTH="29" VPOS="2044" HPOS="1346"/>
+                  <String HEIGHT="160"
+                          WIDTH="324"
+                          VPOS="2044"
+                          HPOS="1257"
+                          CONTENT="söndrig"/>
+                  <SP HEIGHT="160" WIDTH="29" VPOS="2044" HPOS="1581"/>
+                  <String HEIGHT="160"
+                          WIDTH="265"
+                          VPOS="2044"
+                          HPOS="1493"
+                          CONTENT="säck,"/>
+                  <SP HEIGHT="160" WIDTH="29" VPOS="2044" HPOS="1758"/>
+                  <String HEIGHT="160"
+                          WIDTH="206"
+                          VPOS="2044"
+                          HPOS="1669"
+                          CONTENT="att"/>
+                  <SP HEIGHT="160" WIDTH="29" VPOS="2044" HPOS="1875"/>
+                  <String HEIGHT="160"
+                          WIDTH="353"
+                          VPOS="2044"
+                          HPOS="1787"
+                          CONTENT="Persson,"/>
+                  <SP HEIGHT="160" WIDTH="29" VPOS="2044" HPOS="2140"/>
+                  <String HEIGHT="160"
+                          WIDTH="206"
+                          VPOS="2044"
+                          HPOS="2052"
+                          CONTENT="som"/>
+                  <SP HEIGHT="160" WIDTH="29" VPOS="2044" HPOS="2258"/>
+                  <String HEIGHT="160"
+                          WIDTH="177"
+                          VPOS="2044"
+                          HPOS="2170"
+                          CONTENT="då"/>
+                  <SP HEIGHT="160" WIDTH="29" VPOS="2044" HPOS="2347"/>
+                  <String HEIGHT="160"
+                          WIDTH="147"
+                          VPOS="2044"
+                          HPOS="2229"
+                          CONTENT="för"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="574,2294 666,2288 759,2284 851,2279 944,2274 1037,2268 1129,2262 1222,2257 1314,2251 1407,2246 1500,2242 1592,2236 1685,2232 1777,2228 1870,2224 1963,2220 2055,2216 2148,2214 2240,2211 2333,2209 2426,2208"
+                         HEIGHT="164"
+                         WIDTH="1852"
+                         VPOS="2156"
+                         HPOS="574">
+                  <String HEIGHT="164"
+                          WIDTH="276"
+                          VPOS="2156"
+                          HPOS="546"
+                          CONTENT="Dahlin"/>
+                  <SP HEIGHT="164" WIDTH="28" VPOS="2156" HPOS="823"/>
+                  <String HEIGHT="164"
+                          WIDTH="332"
+                          VPOS="2156"
+                          HPOS="740"
+                          CONTENT="omtalat,"/>
+                  <SP HEIGHT="164" WIDTH="28" VPOS="2156" HPOS="1072"/>
+                  <String HEIGHT="164"
+                          WIDTH="193"
+                          VPOS="2156"
+                          HPOS="989"
+                          CONTENT="att"/>
+                  <SP HEIGHT="164" WIDTH="28" VPOS="2156" HPOS="1182"/>
+                  <String HEIGHT="164"
+                          WIDTH="359"
+                          VPOS="2156"
+                          HPOS="1099"
+                          CONTENT="Johansson"/>
+                  <SP HEIGHT="164" WIDTH="28" VPOS="2156" HPOS="1459"/>
+                  <String HEIGHT="164"
+                          WIDTH="387"
+                          VPOS="2156"
+                          HPOS="1376"
+                          CONTENT="föregående"/>
+                  <SP HEIGHT="164" WIDTH="28" VPOS="2156" HPOS="1763"/>
+                  <String HEIGHT="164"
+                          WIDTH="193"
+                          VPOS="2156"
+                          HPOS="1680"
+                          CONTENT="dag"/>
+                  <SP HEIGHT="164" WIDTH="28" VPOS="2156" HPOS="1873"/>
+                  <String HEIGHT="164"
+                          WIDTH="249"
+                          VPOS="2156"
+                          HPOS="1790"
+                          CONTENT="tagit"/>
+                  <SP HEIGHT="164" WIDTH="28" VPOS="2156" HPOS="2039"/>
+                  <String HEIGHT="164"
+                          WIDTH="166"
+                          VPOS="2156"
+                          HPOS="1956"
+                          CONTENT="en"/>
+                  <SP HEIGHT="164" WIDTH="28" VPOS="2156" HPOS="2122"/>
+                  <String HEIGHT="164"
+                          WIDTH="415"
+                          VPOS="2156"
+                          HPOS="2011"
+                          CONTENT="smörfjerding,"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="574,2406 664,2398 755,2393 846,2387 937,2382 1028,2375 1118,2370 1209,2363 1300,2358 1391,2354 1482,2348 1572,2343 1663,2339 1754,2333 1845,2330 1936,2325 2026,2322 2117,2318 2208,2314 2299,2312 2390,2308"
+                         HEIGHT="174"
+                         WIDTH="1816"
+                         VPOS="2257"
+                         HPOS="574">
+                  <String HEIGHT="174"
+                          WIDTH="363"
+                          VPOS="2257"
+                          HPOS="541"
+                          CONTENT="anmodat"/>
+                  <SP HEIGHT="174" WIDTH="33" VPOS="2257" HPOS="904"/>
+                  <String HEIGHT="174"
+                          WIDTH="330"
+                          VPOS="2257"
+                          HPOS="805"
+                          CONTENT="Dahlin"/>
+                  <SP HEIGHT="174" WIDTH="33" VPOS="2257" HPOS="1135"/>
+                  <String HEIGHT="174"
+                          WIDTH="231"
+                          VPOS="2257"
+                          HPOS="1036"
+                          CONTENT="att"/>
+                  <SP HEIGHT="174" WIDTH="33" VPOS="2257" HPOS="1267"/>
+                  <String HEIGHT="174"
+                          WIDTH="264"
+                          VPOS="2257"
+                          HPOS="1168"
+                          CONTENT="söka"/>
+                  <SP HEIGHT="174" WIDTH="33" VPOS="2257" HPOS="1432"/>
+                  <String HEIGHT="174"
+                          WIDTH="396"
+                          VPOS="2257"
+                          HPOS="1333"
+                          CONTENT="försälja"/>
+                  <SP HEIGHT="174" WIDTH="33" VPOS="2257" HPOS="1730"/>
+                  <String HEIGHT="174"
+                          WIDTH="231"
+                          VPOS="2257"
+                          HPOS="1631"
+                          CONTENT="det"/>
+                  <SP HEIGHT="174" WIDTH="33" VPOS="2257" HPOS="1862"/>
+                  <String HEIGHT="174"
+                          WIDTH="231"
+                          VPOS="2257"
+                          HPOS="1763"
+                          CONTENT="som"/>
+                  <SP HEIGHT="174" WIDTH="33" VPOS="2257" HPOS="1994"/>
+                  <String HEIGHT="174"
+                          WIDTH="231"
+                          VPOS="2257"
+                          HPOS="1895"
+                          CONTENT="var"/>
+                  <SP HEIGHT="174" WIDTH="33" VPOS="2257" HPOS="2126"/>
+                  <String HEIGHT="174"
+                          WIDTH="297"
+                          VPOS="2257"
+                          HPOS="2027"
+                          CONTENT="qvar,"/>
+                  <SP HEIGHT="174" WIDTH="33" VPOS="2257" HPOS="2324"/>
+                  <String HEIGHT="174"
+                          WIDTH="198"
+                          VPOS="2257"
+                          HPOS="2192"
+                          CONTENT="samt"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="570,2510 663,2508 757,2504 851,2500 945,2495 1039,2489 1132,2484 1226,2478 1320,2472 1414,2466 1508,2460 1601,2454 1695,2449 1789,2444 1883,2440 1977,2436 2070,2432 2164,2430 2258,2428 2352,2428 2446,2428"
+                         HEIGHT="158"
+                         WIDTH="1876"
+                         VPOS="2377"
+                         HPOS="570">
+                  <String HEIGHT="158"
+                          WIDTH="202"
+                          VPOS="2377"
+                          HPOS="541"
+                          CONTENT="att"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="2377" HPOS="743"/>
+                  <String HEIGHT="158"
+                          WIDTH="289"
+                          VPOS="2377"
+                          HPOS="657"
+                          CONTENT="Dahlin"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="2377" HPOS="945"/>
+                  <String HEIGHT="158"
+                          WIDTH="173"
+                          VPOS="2377"
+                          HPOS="859"
+                          CONTENT="då"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="2377" HPOS="1032"/>
+                  <String HEIGHT="158"
+                          WIDTH="260"
+                          VPOS="2377"
+                          HPOS="945"
+                          CONTENT="tagit"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="2377" HPOS="1205"/>
+                  <String HEIGHT="158"
+                          WIDTH="317"
+                          VPOS="2377"
+                          HPOS="1118"
+                          CONTENT="smöret,"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="2377" HPOS="1436"/>
+                  <String HEIGHT="158"
+                          WIDTH="375"
+                          VPOS="2377"
+                          HPOS="1349"
+                          CONTENT="hvarefter"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="2377" HPOS="1724"/>
+                  <String HEIGHT="158"
+                          WIDTH="173"
+                          VPOS="2377"
+                          HPOS="1638"
+                          CONTENT="de"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="2377" HPOS="1811"/>
+                  <String HEIGHT="158"
+                          WIDTH="346"
+                          VPOS="2377"
+                          HPOS="1724"
+                          CONTENT="begifvit"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="2377" HPOS="2071"/>
+                  <String HEIGHT="158"
+                          WIDTH="202"
+                          VPOS="2377"
+                          HPOS="1984"
+                          CONTENT="sig"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="2377" HPOS="2186"/>
+                  <String HEIGHT="158"
+                          WIDTH="231"
+                          VPOS="2377"
+                          HPOS="2100"
+                          CONTENT="till"/>
+                  <SP HEIGHT="158" WIDTH="29" VPOS="2377" HPOS="2331"/>
+                  <String HEIGHT="158"
+                          WIDTH="231"
+                          VPOS="2377"
+                          HPOS="2215"
+                          CONTENT="Kungs¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="Kungstorget,"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="562,2630 613,2625 664,2621 715,2616 766,2612 817,2608 868,2604 919,2601 970,2598 1021,2593 1072,2591 1123,2588 1174,2585 1225,2582 1276,2580 1327,2578 1378,2576 1429,2574 1480,2572 1531,2570 1582,2568"
+                         HEIGHT="138"
+                         WIDTH="1020"
+                         VPOS="2517"
+                         HPOS="562">
+                  <String HEIGHT="138"
+                          WIDTH="312"
+                          VPOS="2517"
+                          HPOS="534"
+                          CONTENT="torget,"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="Kungstorget,"/>
+                  <SP HEIGHT="138" WIDTH="28" VPOS="2517" HPOS="845"/>
+                  <String HEIGHT="138"
+                          WIDTH="198"
+                          VPOS="2517"
+                          HPOS="760"
+                          CONTENT="der"/>
+                  <SP HEIGHT="138" WIDTH="28" VPOS="2517" HPOS="959"/>
+                  <String HEIGHT="138"
+                          WIDTH="170"
+                          VPOS="2517"
+                          HPOS="874"
+                          CONTENT="de"/>
+                  <SP HEIGHT="138" WIDTH="28" VPOS="2517" HPOS="1044"/>
+                  <String HEIGHT="138"
+                          WIDTH="312"
+                          VPOS="2517"
+                          HPOS="959"
+                          CONTENT="blifvit"/>
+                  <SP HEIGHT="138" WIDTH="28" VPOS="2517" HPOS="1270"/>
+                  <String HEIGHT="138"
+                          WIDTH="368"
+                          VPOS="2517"
+                          HPOS="1185"
+                          CONTENT="anhållna;"/>
+                  <SP HEIGHT="138" WIDTH="28" VPOS="2517" HPOS="1554"/>
+                  <String HEIGHT="138"
+                          WIDTH="142"
+                          VPOS="2517"
+                          HPOS="1440"
+                          CONTENT="och"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="540,2744 633,2734 727,2726 821,2718 915,2710 1009,2704 1102,2698 1196,2692 1290,2687 1384,2681 1478,2678 1571,2674 1665,2670 1759,2668 1853,2664 1947,2662 2040,2660 2134,2658 2228,2656 2322,2654 2416,2652"
+                         HEIGHT="170"
+                         WIDTH="1876"
+                         VPOS="2600"
+                         HPOS="540">
+                  <String HEIGHT="170"
+                          WIDTH="191"
+                          VPOS="2600"
+                          HPOS="508"
+                          CONTENT="2o"/>
+                  <SP HEIGHT="170" WIDTH="32" VPOS="2600" HPOS="699"/>
+                  <String HEIGHT="170"
+                          WIDTH="350"
+                          VPOS="2600"
+                          HPOS="604"
+                          CONTENT="Dahlin;"/>
+                  <SP HEIGHT="170" WIDTH="32" VPOS="2600" HPOS="953"/>
+                  <String HEIGHT="170"
+                          WIDTH="223"
+                          VPOS="2600"
+                          HPOS="858"
+                          CONTENT="att"/>
+                  <SP HEIGHT="170" WIDTH="32" VPOS="2600" HPOS="1081"/>
+                  <String HEIGHT="170"
+                          WIDTH="350"
+                          VPOS="2600"
+                          HPOS="985"
+                          CONTENT="Persson"/>
+                  <SP HEIGHT="170" WIDTH="32" VPOS="2600" HPOS="1335"/>
+                  <String HEIGHT="170"
+                          WIDTH="445"
+                          VPOS="2600"
+                          HPOS="1240"
+                          CONTENT="Thorsdagen"/>
+                  <SP HEIGHT="170" WIDTH="32" VPOS="2600" HPOS="1685"/>
+                  <String HEIGHT="170"
+                          WIDTH="223"
+                          VPOS="2600"
+                          HPOS="1589"
+                          CONTENT="den"/>
+                  <SP HEIGHT="170" WIDTH="32" VPOS="2600" HPOS="1812"/>
+                  <String HEIGHT="170"
+                          WIDTH="191"
+                          VPOS="2600"
+                          HPOS="1716"
+                          CONTENT="19"/>
+                  <SP HEIGHT="170" WIDTH="32" VPOS="2600" HPOS="1907"/>
+                  <String HEIGHT="170"
+                          WIDTH="318"
+                          VPOS="2600"
+                          HPOS="1812"
+                          CONTENT="dennes"/>
+                  <SP HEIGHT="170" WIDTH="32" VPOS="2600" HPOS="2130"/>
+                  <String HEIGHT="170"
+                          WIDTH="191"
+                          VPOS="2600"
+                          HPOS="2034"
+                          CONTENT="på"/>
+                  <SP HEIGHT="170" WIDTH="32" VPOS="2600" HPOS="2225"/>
+                  <String HEIGHT="170"
+                          WIDTH="318"
+                          VPOS="2600"
+                          HPOS="2098"
+                          CONTENT="morgonen"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="552,2852 644,2844 736,2837 828,2831 921,2823 1013,2818 1105,2812 1198,2806 1290,2802 1382,2797 1475,2792 1567,2788 1659,2784 1751,2778 1844,2774 1936,2770 2028,2767 2121,2762 2213,2758 2305,2754 2398,2750"
+                         HEIGHT="180"
+                         WIDTH="1846"
+                         VPOS="2698"
+                         HPOS="552">
+                  <String HEIGHT="180"
+                          WIDTH="227"
+                          VPOS="2698"
+                          HPOS="520"
+                          CONTENT="för"/>
+                  <SP HEIGHT="180" WIDTH="32" VPOS="2698" HPOS="746"/>
+                  <String HEIGHT="180"
+                          WIDTH="291"
+                          VPOS="2698"
+                          HPOS="649"
+                          CONTENT="honom"/>
+                  <SP HEIGHT="180" WIDTH="32" VPOS="2698" HPOS="941"/>
+                  <String HEIGHT="180"
+                          WIDTH="389"
+                          VPOS="2698"
+                          HPOS="843"
+                          CONTENT="omtalat,"/>
+                  <SP HEIGHT="180" WIDTH="32" VPOS="2698" HPOS="1232"/>
+                  <String HEIGHT="180"
+                          WIDTH="227"
+                          VPOS="2698"
+                          HPOS="1135"
+                          CONTENT="att"/>
+                  <SP HEIGHT="180" WIDTH="32" VPOS="2698" HPOS="1362"/>
+                  <String HEIGHT="180"
+                          WIDTH="227"
+                          VPOS="2698"
+                          HPOS="1264"
+                          CONTENT="han"/>
+                  <SP HEIGHT="180" WIDTH="32" VPOS="2698" HPOS="1491"/>
+                  <String HEIGHT="180"
+                          WIDTH="259"
+                          VPOS="2698"
+                          HPOS="1394"
+                          CONTENT="hade"/>
+                  <SP HEIGHT="180" WIDTH="32" VPOS="2698" HPOS="1653"/>
+                  <String HEIGHT="180"
+                          WIDTH="227"
+                          VPOS="2698"
+                          HPOS="1556"
+                          CONTENT="ett"/>
+                  <SP HEIGHT="180" WIDTH="32" VPOS="2698" HPOS="1783"/>
+                  <String HEIGHT="180"
+                          WIDTH="324"
+                          VPOS="2698"
+                          HPOS="1686"
+                          CONTENT="stycke"/>
+                  <SP HEIGHT="180" WIDTH="32" VPOS="2698" HPOS="2009"/>
+                  <String HEIGHT="180"
+                          WIDTH="291"
+                          VPOS="2698"
+                          HPOS="1912"
+                          CONTENT="smör,"/>
+                  <SP HEIGHT="180" WIDTH="32" VPOS="2698" HPOS="2204"/>
+                  <String HEIGHT="180"
+                          WIDTH="227"
+                          VPOS="2698"
+                          HPOS="2107"
+                          CONTENT="som"/>
+                  <SP HEIGHT="180" WIDTH="32" VPOS="2698" HPOS="2333"/>
+                  <String HEIGHT="180"
+                          WIDTH="227"
+                          VPOS="2698"
+                          HPOS="2236"
+                          CONTENT="han"/>
+                  <SP HEIGHT="180" WIDTH="32" VPOS="2698" HPOS="2463"/>
+                  <String HEIGHT="180" WIDTH="65" VPOS="2698" HPOS="2333" CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="562,2960 652,2955 743,2949 834,2944 924,2938 1015,2933 1106,2928 1196,2922 1287,2918 1378,2913 1469,2908 1559,2903 1650,2898 1741,2894 1831,2889 1922,2886 2013,2882 2103,2878 2194,2875 2285,2871 2376,2868"
+                         HEIGHT="170"
+                         WIDTH="1814"
+                         VPOS="2816"
+                         HPOS="562">
+                  <String HEIGHT="170"
+                          WIDTH="344"
+                          VPOS="2816"
+                          HPOS="531"
+                          CONTENT="önskade"/>
+                  <SP HEIGHT="170" WIDTH="31" VPOS="2816" HPOS="875"/>
+                  <String HEIGHT="170"
+                          WIDTH="407"
+                          VPOS="2816"
+                          HPOS="781"
+                          CONTENT="försälja;"/>
+                  <SP HEIGHT="170" WIDTH="31" VPOS="2816" HPOS="1188"/>
+                  <String HEIGHT="170"
+                          WIDTH="219"
+                          VPOS="2816"
+                          HPOS="1094"
+                          CONTENT="att"/>
+                  <SP HEIGHT="170" WIDTH="31" VPOS="2816" HPOS="1313"/>
+                  <String HEIGHT="170"
+                          WIDTH="344"
+                          VPOS="2816"
+                          HPOS="1219"
+                          CONTENT="Persson"/>
+                  <SP HEIGHT="170" WIDTH="31" VPOS="2816" HPOS="1563"/>
+                  <String HEIGHT="170"
+                          WIDTH="188"
+                          VPOS="2816"
+                          HPOS="1469"
+                          CONTENT="på"/>
+                  <SP HEIGHT="170" WIDTH="31" VPOS="2816" HPOS="1657"/>
+                  <String HEIGHT="170"
+                          WIDTH="281"
+                          VPOS="2816"
+                          HPOS="1563"
+                          CONTENT="fråga"/>
+                  <SP HEIGHT="170" WIDTH="31" VPOS="2816" HPOS="1844"/>
+                  <String HEIGHT="170"
+                          WIDTH="188"
+                          VPOS="2816"
+                          HPOS="1750"
+                          CONTENT="af"/>
+                  <SP HEIGHT="170" WIDTH="31" VPOS="2816" HPOS="1938"/>
+                  <String HEIGHT="170"
+                          WIDTH="313"
+                          VPOS="2816"
+                          HPOS="1844"
+                          CONTENT="Dahlin"/>
+                  <SP HEIGHT="170" WIDTH="31" VPOS="2816" HPOS="2157"/>
+                  <String HEIGHT="170"
+                          WIDTH="344"
+                          VPOS="2816"
+                          HPOS="2032"
+                          CONTENT="hvarifrån"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="554,3068 644,3064 734,3060 824,3057 914,3053 1005,3048 1095,3044 1185,3040 1275,3036 1365,3031 1456,3026 1546,3021 1636,3016 1726,3012 1816,3006 1907,3001 1997,2997 2087,2992 2177,2987 2267,2982 2358,2978"
+                         HEIGHT="168"
+                         WIDTH="1804"
+                         VPOS="2926"
+                         HPOS="554">
+                  <String HEIGHT="168"
+                          WIDTH="238"
+                          VPOS="2926"
+                          HPOS="520"
+                          CONTENT="han"/>
+                  <SP HEIGHT="168" WIDTH="34" VPOS="2926" HPOS="758"/>
+                  <String HEIGHT="168"
+                          WIDTH="272"
+                          VPOS="2926"
+                          HPOS="656"
+                          CONTENT="fått"/>
+                  <SP HEIGHT="168" WIDTH="34" VPOS="2926" HPOS="928"/>
+                  <String HEIGHT="168"
+                          WIDTH="442"
+                          VPOS="2926"
+                          HPOS="826"
+                          CONTENT="detsamma,"/>
+                  <SP HEIGHT="168" WIDTH="34" VPOS="2926" HPOS="1269"/>
+                  <String HEIGHT="168"
+                          WIDTH="340"
+                          VPOS="2926"
+                          HPOS="1167"
+                          CONTENT="svarat"/>
+                  <SP HEIGHT="168" WIDTH="34" VPOS="2926" HPOS="1507"/>
+                  <String HEIGHT="168"
+                          WIDTH="238"
+                          VPOS="2926"
+                          HPOS="1405"
+                          CONTENT="att"/>
+                  <SP HEIGHT="168" WIDTH="34" VPOS="2926" HPOS="1643"/>
+                  <String HEIGHT="168"
+                          WIDTH="238"
+                          VPOS="2926"
+                          HPOS="1541"
+                          CONTENT="han"/>
+                  <SP HEIGHT="168" WIDTH="34" VPOS="2926" HPOS="1779"/>
+                  <String HEIGHT="168"
+                          WIDTH="340"
+                          VPOS="2926"
+                          HPOS="1677"
+                          CONTENT="hittat"/>
+                  <SP HEIGHT="168" WIDTH="34" VPOS="2926" HPOS="2018"/>
+                  <String HEIGHT="168"
+                          WIDTH="238"
+                          VPOS="2926"
+                          HPOS="1916"
+                          CONTENT="det"/>
+                  <SP HEIGHT="168" WIDTH="34" VPOS="2926" HPOS="2154"/>
+                  <String HEIGHT="168"
+                          WIDTH="272"
+                          VPOS="2926"
+                          HPOS="2052"
+                          CONTENT="samt"/>
+                  <SP HEIGHT="168" WIDTH="34" VPOS="2926" HPOS="2324"/>
+                  <String HEIGHT="168"
+                          WIDTH="170"
+                          VPOS="2926"
+                          HPOS="2188"
+                          CONTENT="att"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="546,3190 636,3183 726,3176 816,3172 906,3166 996,3162 1086,3157 1176,3152 1266,3147 1356,3143 1446,3140 1536,3134 1626,3130 1716,3126 1806,3122 1896,3116 1986,3112 2076,3106 2166,3100 2256,3096 2346,3088"
+                         HEIGHT="180"
+                         WIDTH="1800"
+                         VPOS="3036"
+                         HPOS="546">
+                  <String HEIGHT="180"
+                          WIDTH="346"
+                          VPOS="3036"
+                          HPOS="511"
+                          CONTENT="Dahlin"/>
+                  <SP HEIGHT="180" WIDTH="35" VPOS="3036" HPOS="858"/>
+                  <String HEIGHT="180"
+                          WIDTH="208"
+                          VPOS="3036"
+                          HPOS="754"
+                          CONTENT="då"/>
+                  <SP HEIGHT="180" WIDTH="35" VPOS="3036" HPOS="961"/>
+                  <String HEIGHT="180"
+                          WIDTH="312"
+                          VPOS="3036"
+                          HPOS="858"
+                          CONTENT="följt"/>
+                  <SP HEIGHT="180" WIDTH="35" VPOS="3036" HPOS="1169"/>
+                  <String HEIGHT="180"
+                          WIDTH="242"
+                          VPOS="3036"
+                          HPOS="1065"
+                          CONTENT="med"/>
+                  <SP HEIGHT="180" WIDTH="35" VPOS="3036" HPOS="1308"/>
+                  <String HEIGHT="180"
+                          WIDTH="277"
+                          VPOS="3036"
+                          HPOS="1204"
+                          CONTENT="till"/>
+                  <SP HEIGHT="180" WIDTH="35" VPOS="3036" HPOS="1481"/>
+                  <String HEIGHT="180"
+                          WIDTH="208"
+                          VPOS="3036"
+                          HPOS="1377"
+                          CONTENT="en"/>
+                  <SP HEIGHT="180" WIDTH="35" VPOS="3036" HPOS="1584"/>
+                  <String HEIGHT="180"
+                          WIDTH="415"
+                          VPOS="3036"
+                          HPOS="1481"
+                          CONTENT="portgång"/>
+                  <SP HEIGHT="180" WIDTH="35" VPOS="3036" HPOS="1896"/>
+                  <String HEIGHT="180"
+                          WIDTH="242"
+                          VPOS="3036"
+                          HPOS="1792"
+                          CONTENT="vid"/>
+                  <SP HEIGHT="180" WIDTH="35" VPOS="3036" HPOS="2034"/>
+                  <String HEIGHT="180"
+                          WIDTH="450"
+                          VPOS="3036"
+                          HPOS="1896"
+                          CONTENT="Bazargatan,"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="550,3298 640,3294 730,3290 820,3286 910,3282 1001,3278 1091,3274 1181,3270 1271,3265 1361,3262 1452,3258 1542,3254 1632,3250 1722,3246 1812,3242 1903,3238 1993,3234 2083,3230 2173,3226 2263,3221 2354,3216"
+                         HEIGHT="160"
+                         WIDTH="1804"
+                         VPOS="3164"
+                         HPOS="550">
+                  <String HEIGHT="160"
+                          WIDTH="234"
+                          VPOS="3164"
+                          HPOS="517"
+                          CONTENT="der"/>
+                  <SP HEIGHT="160" WIDTH="33" VPOS="3164" HPOS="750"/>
+                  <String HEIGHT="160"
+                          WIDTH="334"
+                          VPOS="3164"
+                          HPOS="650"
+                          CONTENT="Dahlin"/>
+                  <SP HEIGHT="160" WIDTH="33" VPOS="3164" HPOS="984"/>
+                  <String HEIGHT="160"
+                          WIDTH="301"
+                          VPOS="3164"
+                          HPOS="884"
+                          CONTENT="tagit"/>
+                  <SP HEIGHT="160" WIDTH="33" VPOS="3164" HPOS="1185"/>
+                  <String HEIGHT="160"
+                          WIDTH="367"
+                          VPOS="3164"
+                          HPOS="1085"
+                          CONTENT="smöret,"/>
+                  <SP HEIGHT="160" WIDTH="33" VPOS="3164" HPOS="1452"/>
+                  <String HEIGHT="160"
+                          WIDTH="434"
+                          VPOS="3164"
+                          HPOS="1352"
+                          CONTENT="hvarefter"/>
+                  <SP HEIGHT="160" WIDTH="33" VPOS="3164" HPOS="1786"/>
+                  <String HEIGHT="160"
+                          WIDTH="200"
+                          VPOS="3164"
+                          HPOS="1686"
+                          CONTENT="de"/>
+                  <SP HEIGHT="160" WIDTH="33" VPOS="3164" HPOS="1886"/>
+                  <String HEIGHT="160"
+                          WIDTH="434"
+                          VPOS="3164"
+                          HPOS="1786"
+                          CONTENT="gemensamt"/>
+                  <SP HEIGHT="160" WIDTH="33" VPOS="3164" HPOS="2220"/>
+                  <String HEIGHT="160"
+                          WIDTH="267"
+                          VPOS="3164"
+                          HPOS="2087"
+                          CONTENT="begif¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="begifvit"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="554,3416 639,3415 725,3412 811,3410 897,3406 983,3402 1068,3397 1154,3393 1240,3388 1326,3382 1412,3376 1497,3372 1583,3367 1669,3362 1755,3358 1841,3354 1926,3350 2012,3346 2098,3344 2184,3342 2270,3340"
+                         HEIGHT="154"
+                         WIDTH="1716"
+                         VPOS="3288"
+                         HPOS="554">
+                  <String HEIGHT="154"
+                          WIDTH="236"
+                          VPOS="3288"
+                          HPOS="520"
+                          CONTENT="vit"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="begifvit"/>
+                  <SP HEIGHT="154" WIDTH="34" VPOS="3288" HPOS="756"/>
+                  <String HEIGHT="154"
+                          WIDTH="236"
+                          VPOS="3288"
+                          HPOS="655"
+                          CONTENT="sig"/>
+                  <SP HEIGHT="154" WIDTH="34" VPOS="3288" HPOS="890"/>
+                  <String HEIGHT="154"
+                          WIDTH="269"
+                          VPOS="3288"
+                          HPOS="790"
+                          CONTENT="till"/>
+                  <SP HEIGHT="154" WIDTH="34" VPOS="3288" HPOS="1059"/>
+                  <String HEIGHT="154"
+                          WIDTH="505"
+                          VPOS="3288"
+                          HPOS="958"
+                          CONTENT="Kungstorget"/>
+                  <SP HEIGHT="154" WIDTH="34" VPOS="3288" HPOS="1462"/>
+                  <String HEIGHT="154"
+                          WIDTH="236"
+                          VPOS="3288"
+                          HPOS="1362"
+                          CONTENT="för"/>
+                  <SP HEIGHT="154" WIDTH="34" VPOS="3288" HPOS="1597"/>
+                  <String HEIGHT="154"
+                          WIDTH="236"
+                          VPOS="3288"
+                          HPOS="1496"
+                          CONTENT="att"/>
+                  <SP HEIGHT="154" WIDTH="34" VPOS="3288" HPOS="1732"/>
+                  <String HEIGHT="154"
+                          WIDTH="404"
+                          VPOS="3288"
+                          HPOS="1631"
+                          CONTENT="försälja"/>
+                  <SP HEIGHT="154" WIDTH="34" VPOS="3288" HPOS="2034"/>
+                  <String HEIGHT="154"
+                          WIDTH="370"
+                          VPOS="3288"
+                          HPOS="1900"
+                          CONTENT="detsamma."/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="640,3524 726,3522 813,3517 900,3512 986,3509 1073,3504 1160,3500 1246,3496 1333,3492 1420,3488 1507,3484 1593,3480 1680,3476 1767,3474 1853,3470 1940,3466 2027,3464 2113,3460 2200,3458 2287,3456 2374,3454"
+                         HEIGHT="140"
+                         WIDTH="1734"
+                         VPOS="3407"
+                         HPOS="640">
+                  <String HEIGHT="140"
+                          WIDTH="476"
+                          VPOS="3407"
+                          HPOS="606"
+                          CONTENT="Handlanden"/>
+                  <SP HEIGHT="140" WIDTH="34" VPOS="3407" HPOS="1082"/>
+                  <String HEIGHT="140"
+                          WIDTH="204"
+                          VPOS="3407"
+                          HPOS="980"
+                          CONTENT="J."/>
+                  <SP HEIGHT="140" WIDTH="34" VPOS="3407" HPOS="1184"/>
+                  <String HEIGHT="140"
+                          WIDTH="204"
+                          VPOS="3407"
+                          HPOS="1082"
+                          CONTENT="F."/>
+                  <SP HEIGHT="140" WIDTH="34" VPOS="3407" HPOS="1286"/>
+                  <String HEIGHT="140"
+                          WIDTH="306"
+                          VPOS="3407"
+                          HPOS="1184"
+                          CONTENT="Kruse"/>
+                  <SP HEIGHT="140" WIDTH="34" VPOS="3407" HPOS="1490"/>
+                  <String HEIGHT="140"
+                          WIDTH="170"
+                          VPOS="3407"
+                          HPOS="1388"
+                          CONTENT="&amp;"/>
+                  <SP HEIGHT="140" WIDTH="34" VPOS="3407" HPOS="1558"/>
+                  <String HEIGHT="140"
+                          WIDTH="238"
+                          VPOS="3407"
+                          HPOS="1456"
+                          CONTENT="Co,"/>
+                  <SP HEIGHT="140" WIDTH="34" VPOS="3407" HPOS="1694"/>
+                  <String HEIGHT="140"
+                          WIDTH="238"
+                          VPOS="3407"
+                          HPOS="1592"
+                          CONTENT="som"/>
+                  <SP HEIGHT="140" WIDTH="34" VPOS="3407" HPOS="1830"/>
+                  <String HEIGHT="140"
+                          WIDTH="238"
+                          VPOS="3407"
+                          HPOS="1728"
+                          CONTENT="har"/>
+                  <SP HEIGHT="140" WIDTH="34" VPOS="3407" HPOS="1966"/>
+                  <String HEIGHT="140"
+                          WIDTH="340"
+                          VPOS="3407"
+                          HPOS="1864"
+                          CONTENT="kontor"/>
+                  <SP HEIGHT="140" WIDTH="34" VPOS="3407" HPOS="2204"/>
+                  <String HEIGHT="140"
+                          WIDTH="170"
+                          VPOS="3407"
+                          HPOS="2102"
+                          CONTENT="i"/>
+                  <SP HEIGHT="140" WIDTH="34" VPOS="3407" HPOS="2272"/>
+                  <String HEIGHT="140"
+                          WIDTH="238"
+                          VPOS="3407"
+                          HPOS="2136"
+                          CONTENT="huset"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="544,3628 635,3623 727,3618 819,3614 910,3609 1002,3606 1094,3602 1185,3599 1277,3596 1369,3594 1461,3592 1552,3589 1644,3587 1736,3584 1827,3582 1919,3580 2011,3578 2102,3575 2194,3572 2286,3569 2378,3566"
+                         HEIGHT="132"
+                         WIDTH="1834"
+                         VPOS="3519"
+                         HPOS="544">
+                  <String HEIGHT="132"
+                          WIDTH="200"
+                          VPOS="3519"
+                          HPOS="511"
+                          CONTENT="No"/>
+                  <SP HEIGHT="132" WIDTH="33" VPOS="3519" HPOS="711"/>
+                  <String HEIGHT="132"
+                          WIDTH="200"
+                          VPOS="3519"
+                          HPOS="611"
+                          CONTENT="14"/>
+                  <SP HEIGHT="132" WIDTH="33" VPOS="3519" HPOS="811"/>
+                  <String HEIGHT="132"
+                          WIDTH="233"
+                          VPOS="3519"
+                          HPOS="711"
+                          CONTENT="vid"/>
+                  <SP HEIGHT="132" WIDTH="33" VPOS="3519" HPOS="944"/>
+                  <String HEIGHT="132"
+                          WIDTH="300"
+                          VPOS="3519"
+                          HPOS="844"
+                          CONTENT="Östra"/>
+                  <SP HEIGHT="132" WIDTH="33" VPOS="3519" HPOS="1144"/>
+                  <String HEIGHT="132"
+                          WIDTH="433"
+                          VPOS="3519"
+                          HPOS="1044"
+                          CONTENT="Hamngatan"/>
+                  <SP HEIGHT="132" WIDTH="33" VPOS="3519" HPOS="1478"/>
+                  <String HEIGHT="132"
+                          WIDTH="233"
+                          VPOS="3519"
+                          HPOS="1378"
+                          CONTENT="har"/>
+                  <SP HEIGHT="132" WIDTH="33" VPOS="3519" HPOS="1611"/>
+                  <String HEIGHT="132"
+                          WIDTH="467"
+                          VPOS="3519"
+                          HPOS="1511"
+                          CONTENT="uppgifvit,"/>
+                  <SP HEIGHT="132" WIDTH="33" VPOS="3519" HPOS="1978"/>
+                  <String HEIGHT="132"
+                          WIDTH="233"
+                          VPOS="3519"
+                          HPOS="1878"
+                          CONTENT="att"/>
+                  <SP HEIGHT="132" WIDTH="33" VPOS="3519" HPOS="2111"/>
+                  <String HEIGHT="132"
+                          WIDTH="233"
+                          VPOS="3519"
+                          HPOS="2011"
+                          CONTENT="han"/>
+                  <SP HEIGHT="132" WIDTH="33" VPOS="3519" HPOS="2245"/>
+                  <String HEIGHT="132"
+                          WIDTH="267"
+                          VPOS="3519"
+                          HPOS="2111"
+                          CONTENT="Onsda¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="Onsdagen"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="542,3730 632,3728 722,3724 812,3722 902,3720 992,3716 1082,3712 1172,3710 1262,3706 1352,3703 1442,3700 1532,3696 1622,3694 1712,3692 1802,3690 1892,3687 1982,3684 2072,3683 2162,3682 2252,3680 2342,3680"
+                         HEIGHT="125"
+                         WIDTH="1800"
+                         VPOS="3630"
+                         HPOS="542">
+                  <String HEIGHT="125"
+                          WIDTH="225"
+                          VPOS="3630"
+                          HPOS="510"
+                          CONTENT="gen"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="Onsdagen"/>
+                  <SP HEIGHT="125" WIDTH="32" VPOS="3630" HPOS="735"/>
+                  <String HEIGHT="125"
+                          WIDTH="225"
+                          VPOS="3630"
+                          HPOS="638"
+                          CONTENT="den"/>
+                  <SP HEIGHT="125" WIDTH="32" VPOS="3630" HPOS="863"/>
+                  <String HEIGHT="125"
+                          WIDTH="193"
+                          VPOS="3630"
+                          HPOS="767"
+                          CONTENT="18"/>
+                  <SP HEIGHT="125" WIDTH="32" VPOS="3630" HPOS="960"/>
+                  <String HEIGHT="125"
+                          WIDTH="321"
+                          VPOS="3630"
+                          HPOS="863"
+                          CONTENT="dennes"/>
+                  <SP HEIGHT="125" WIDTH="32" VPOS="3630" HPOS="1185"/>
+                  <String HEIGHT="125"
+                          WIDTH="225"
+                          VPOS="3630"
+                          HPOS="1088"
+                          CONTENT="med"/>
+                  <SP HEIGHT="125" WIDTH="32" VPOS="3630" HPOS="1313"/>
+                  <String HEIGHT="125"
+                          WIDTH="482"
+                          VPOS="3630"
+                          HPOS="1217"
+                          CONTENT="Ångfartyget"/>
+                  <SP HEIGHT="125" WIDTH="32" VPOS="3630" HPOS="1699"/>
+                  <String HEIGHT="125"
+                          WIDTH="289"
+                          VPOS="3630"
+                          HPOS="1603"
+                          CONTENT="Prins"/>
+                  <SP HEIGHT="125" WIDTH="32" VPOS="3630" HPOS="1892"/>
+                  <String HEIGHT="125"
+                          WIDTH="289"
+                          VPOS="3630"
+                          HPOS="1796"
+                          CONTENT="Oskar"/>
+                  <SP HEIGHT="125" WIDTH="32" VPOS="3630" HPOS="2085"/>
+                  <String HEIGHT="125"
+                          WIDTH="289"
+                          VPOS="3630"
+                          HPOS="1988"
+                          CONTENT="låtit"/>
+                  <SP HEIGHT="125" WIDTH="32" VPOS="3630" HPOS="2278"/>
+                  <String HEIGHT="125"
+                          WIDTH="193"
+                          VPOS="3630"
+                          HPOS="2149"
+                          CONTENT="till"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="542,3832 635,3830 729,3830 823,3828 917,3826 1011,3824 1104,3821 1198,3818 1292,3816 1386,3813 1480,3810 1573,3808 1667,3806 1761,3804 1855,3802 1949,3801 2042,3800 2136,3800 2230,3800 2324,3800 2418,3802"
+                         HEIGHT="107"
+                         WIDTH="1876"
+                         VPOS="3750"
+                         HPOS="542">
+                  <String HEIGHT="107"
+                          WIDTH="361"
+                          VPOS="3750"
+                          HPOS="506"
+                          CONTENT="London"/>
+                  <SP HEIGHT="107" WIDTH="36" VPOS="3750" HPOS="867"/>
+                  <String HEIGHT="107"
+                          WIDTH="397"
+                          VPOS="3750"
+                          HPOS="758"
+                          CONTENT="afsända"/>
+                  <SP HEIGHT="107" WIDTH="36" VPOS="3750" HPOS="1155"/>
+                  <String HEIGHT="107"
+                          WIDTH="253"
+                          VPOS="3750"
+                          HPOS="1047"
+                          CONTENT="ett"/>
+                  <SP HEIGHT="107" WIDTH="36" VPOS="3750" HPOS="1300"/>
+                  <String HEIGHT="107"
+                          WIDTH="361"
+                          VPOS="3750"
+                          HPOS="1191"
+                          CONTENT="större"/>
+                  <SP HEIGHT="107" WIDTH="36" VPOS="3750" HPOS="1552"/>
+                  <String HEIGHT="107"
+                          WIDTH="325"
+                          VPOS="3750"
+                          HPOS="1444"
+                          CONTENT="parti"/>
+                  <SP HEIGHT="107" WIDTH="36" VPOS="3750" HPOS="1769"/>
+                  <String HEIGHT="107"
+                          WIDTH="541"
+                          VPOS="3750"
+                          HPOS="1660"
+                          CONTENT="fjerdingar,"/>
+                  <SP HEIGHT="107" WIDTH="36" VPOS="3750" HPOS="2202"/>
+                  <String HEIGHT="107"
+                          WIDTH="361"
+                          VPOS="3750"
+                          HPOS="2057"
+                          CONTENT="innehål¬"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1584547152185_5277"
+                       HEIGHT="942"
+                       WIDTH="1915"
+                       VPOS="260"
+                       HPOS="2707">
+               <Shape>
+                  <Polygon POINTS="2720,260 4622,260 4619,1134 2707,1202"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="2732,332 2823,326 2915,323 3007,320 3099,318 3191,316 3283,314 3375,314 3467,314 3559,316 3651,316 3742,317 3834,318 3926,320 4018,320 4110,322 4202,322 4294,322 4386,322 4478,322 4570,320"
+                         HEIGHT="99"
+                         WIDTH="1838"
+                         VPOS="260"
+                         HPOS="2732">
+                  <String HEIGHT="99"
+                          WIDTH="295"
+                          VPOS="260"
+                          HPOS="2699"
+                          CONTENT="lande"/>
+                  <SP HEIGHT="99" WIDTH="33" VPOS="260" HPOS="2995"/>
+                  <String HEIGHT="99"
+                          WIDTH="361"
+                          VPOS="260"
+                          HPOS="2896"
+                          CONTENT="omkring"/>
+                  <SP HEIGHT="99" WIDTH="33" VPOS="260" HPOS="3257"/>
+                  <String HEIGHT="99"
+                          WIDTH="230"
+                          VPOS="260"
+                          HPOS="3159"
+                          CONTENT="100"/>
+                  <SP HEIGHT="99" WIDTH="33" VPOS="260" HPOS="3388"/>
+                  <String HEIGHT="99" WIDTH="197" VPOS="260" HPOS="3290" CONTENT="℔,"/>
+                  <SP HEIGHT="99" WIDTH="33" VPOS="260" HPOS="3487"/>
+                  <String HEIGHT="99"
+                          WIDTH="328"
+                          VPOS="260"
+                          HPOS="3388"
+                          CONTENT="hvilka"/>
+                  <SP HEIGHT="99" WIDTH="33" VPOS="260" HPOS="3717"/>
+                  <String HEIGHT="99"
+                          WIDTH="460"
+                          VPOS="260"
+                          HPOS="3618"
+                          CONTENT="fjerdingar"/>
+                  <SP HEIGHT="99" WIDTH="33" VPOS="260" HPOS="4078"/>
+                  <String HEIGHT="99"
+                          WIDTH="394"
+                          VPOS="260"
+                          HPOS="3979"
+                          CONTENT="medförts"/>
+                  <SP HEIGHT="99" WIDTH="33" VPOS="260" HPOS="4373"/>
+                  <String HEIGHT="99"
+                          WIDTH="230"
+                          VPOS="260"
+                          HPOS="4275"
+                          CONTENT="och"/>
+                  <SP HEIGHT="99" WIDTH="33" VPOS="260" HPOS="4504"/>
+                  <String HEIGHT="99"
+                          WIDTH="197"
+                          VPOS="260"
+                          HPOS="4373"
+                          CONTENT="upp¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="uppställts"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="2720,466 2814,457 2908,450 3002,444 3097,440 3191,436 3285,434 3380,432 3474,430 3568,428 3663,428 3757,428 3851,428 3945,428 4040,428 4134,428 4228,428 4323,426 4417,425 4511,423 4606,420"
+                         HEIGHT="119"
+                         WIDTH="1886"
+                         VPOS="371"
+                         HPOS="2720">
+                  <String HEIGHT="119"
+                          WIDTH="377"
+                          VPOS="371"
+                          HPOS="2686"
+                          CONTENT="ställts"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="uppställts"/>
+                  <SP HEIGHT="119" WIDTH="34" VPOS="371" HPOS="3063"/>
+                  <String HEIGHT="119" WIDTH="171" VPOS="371" HPOS="2960" CONTENT="å"/>
+                  <SP HEIGHT="119" WIDTH="34" VPOS="371" HPOS="3131"/>
+                  <String HEIGHT="119"
+                          WIDTH="309"
+                          VPOS="371"
+                          HPOS="3029"
+                          CONTENT="kajen"/>
+                  <SP HEIGHT="119" WIDTH="34" VPOS="371" HPOS="3337"/>
+                  <String HEIGHT="119"
+                          WIDTH="240"
+                          VPOS="371"
+                          HPOS="3234"
+                          CONTENT="vid"/>
+                  <SP HEIGHT="119" WIDTH="34" VPOS="371" HPOS="3474"/>
+                  <String HEIGHT="119"
+                          WIDTH="514"
+                          VPOS="371"
+                          HPOS="3372"
+                          CONTENT="Skeppsbron;"/>
+                  <SP HEIGHT="119" WIDTH="34" VPOS="371" HPOS="3886"/>
+                  <String HEIGHT="119"
+                          WIDTH="274"
+                          VPOS="371"
+                          HPOS="3783"
+                          CONTENT="samt"/>
+                  <SP HEIGHT="119" WIDTH="34" VPOS="371" HPOS="4057"/>
+                  <String HEIGHT="119"
+                          WIDTH="240"
+                          VPOS="371"
+                          HPOS="3954"
+                          CONTENT="att"/>
+                  <SP HEIGHT="119" WIDTH="34" VPOS="371" HPOS="4195"/>
+                  <String HEIGHT="119"
+                          WIDTH="206"
+                          VPOS="371"
+                          HPOS="4092"
+                          CONTENT="nu"/>
+                  <SP HEIGHT="119" WIDTH="34" VPOS="371" HPOS="4297"/>
+                  <String HEIGHT="119"
+                          WIDTH="446"
+                          VPOS="371"
+                          HPOS="4160"
+                          CONTENT="ifrågakomne"/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="2722,580 2815,577 2909,572 3003,568 3097,564 3191,560 3284,556 3378,553 3472,550 3566,546 3660,544 3753,540 3847,538 3941,535 4035,532 4129,530 4222,528 4316,526 4410,524 4504,524 4598,522"
+                         HEIGHT="131"
+                         WIDTH="1876"
+                         VPOS="473"
+                         HPOS="2722">
+                  <String HEIGHT="131"
+                          WIDTH="500"
+                          VPOS="473"
+                          HPOS="2691"
+                          CONTENT="smörfjerding"/>
+                  <SP HEIGHT="131" WIDTH="31" VPOS="473" HPOS="3191"/>
+                  <String HEIGHT="131"
+                          WIDTH="438"
+                          VPOS="473"
+                          HPOS="3097"
+                          CONTENT="antagligen"/>
+                  <SP HEIGHT="131" WIDTH="31" VPOS="473" HPOS="3535"/>
+                  <String HEIGHT="131"
+                          WIDTH="469"
+                          VPOS="473"
+                          HPOS="3441"
+                          CONTENT="tillgripits"/>
+                  <SP HEIGHT="131" WIDTH="31" VPOS="473" HPOS="3910"/>
+                  <String HEIGHT="131"
+                          WIDTH="250"
+                          VPOS="473"
+                          HPOS="3816"
+                          CONTENT="från"/>
+                  <SP HEIGHT="131" WIDTH="31" VPOS="473" HPOS="4066"/>
+                  <String HEIGHT="131"
+                          WIDTH="344"
+                          VPOS="473"
+                          HPOS="3973"
+                          CONTENT="berörde"/>
+                  <SP HEIGHT="131" WIDTH="31" VPOS="473" HPOS="4317"/>
+                  <String HEIGHT="131"
+                          WIDTH="313"
+                          VPOS="473"
+                          HPOS="4223"
+                          CONTENT="parti;"/>
+                  <SP HEIGHT="131" WIDTH="31" VPOS="473" HPOS="4535"/>
+                  <String HEIGHT="131"
+                          WIDTH="188"
+                          VPOS="473"
+                          HPOS="4410"
+                          CONTENT="ehu¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="ehuru"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="2742,706 2836,702 2930,698 3024,694 3118,689 3212,686 3306,683 3400,680 3494,676 3588,674 3682,670 3776,668 3870,664 3964,662 4058,658 4152,654 4246,650 4340,646 4434,641 4528,636 4622,630"
+                         HEIGHT="152"
+                         WIDTH="1880"
+                         VPOS="579"
+                         HPOS="2742">
+                  <String HEIGHT="152"
+                          WIDTH="201"
+                          VPOS="579"
+                          HPOS="2708"
+                          CONTENT="ru"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="ehuru"/>
+                  <SP HEIGHT="152" WIDTH="34" VPOS="579" HPOS="2910"/>
+                  <String HEIGHT="152"
+                          WIDTH="504"
+                          VPOS="579"
+                          HPOS="2809"
+                          CONTENT="fullständig"/>
+                  <SP HEIGHT="152" WIDTH="34" VPOS="579" HPOS="3313"/>
+                  <String HEIGHT="152"
+                          WIDTH="470"
+                          VPOS="579"
+                          HPOS="3212"
+                          CONTENT="upplysning"/>
+                  <SP HEIGHT="152" WIDTH="34" VPOS="579" HPOS="3682"/>
+                  <String HEIGHT="152"
+                          WIDTH="302"
+                          VPOS="579"
+                          HPOS="3581"
+                          CONTENT="derom"/>
+                  <SP HEIGHT="152" WIDTH="34" VPOS="579" HPOS="3883"/>
+                  <String HEIGHT="152"
+                          WIDTH="269"
+                          VPOS="579"
+                          HPOS="3783"
+                          CONTENT="icke"/>
+                  <SP HEIGHT="152" WIDTH="34" VPOS="579" HPOS="4051"/>
+                  <String HEIGHT="152"
+                          WIDTH="235"
+                          VPOS="579"
+                          HPOS="3951"
+                          CONTENT="kan"/>
+                  <SP HEIGHT="152" WIDTH="34" VPOS="579" HPOS="4186"/>
+                  <String HEIGHT="152"
+                          WIDTH="403"
+                          VPOS="579"
+                          HPOS="4085"
+                          CONTENT="erhållas"/>
+                  <SP HEIGHT="152" WIDTH="34" VPOS="579" HPOS="4488"/>
+                  <String HEIGHT="152"
+                          WIDTH="269"
+                          VPOS="579"
+                          HPOS="4353"
+                          CONTENT="förrän"/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="2748,824 2818,822 2889,818 2959,814 3030,810 3100,808 3171,803 3241,800 3312,796 3382,792 3453,790 3523,786 3594,782 3664,778 3735,775 3805,772 3876,769 3946,765 4017,762 4087,758 4158,756"
+                         HEIGHT="144"
+                         WIDTH="1410"
+                         VPOS="705"
+                         HPOS="2748">
+                  <String HEIGHT="144"
+                          WIDTH="310"
+                          VPOS="705"
+                          HPOS="2714"
+                          CONTENT="efter"/>
+                  <SP HEIGHT="144" WIDTH="34" VPOS="705" HPOS="3023"/>
+                  <String HEIGHT="144"
+                          WIDTH="550"
+                          VPOS="705"
+                          HPOS="2920"
+                          CONTENT="ångfartygets"/>
+                  <SP HEIGHT="144" WIDTH="34" VPOS="705" HPOS="3470"/>
+                  <String HEIGHT="144"
+                          WIDTH="447"
+                          VPOS="705"
+                          HPOS="3367"
+                          CONTENT="återkomst"/>
+                  <SP HEIGHT="144" WIDTH="34" VPOS="705" HPOS="3814"/>
+                  <String HEIGHT="144"
+                          WIDTH="275"
+                          VPOS="705"
+                          HPOS="3711"
+                          CONTENT="från"/>
+                  <SP HEIGHT="144" WIDTH="34" VPOS="705" HPOS="3986"/>
+                  <String HEIGHT="144"
+                          WIDTH="310"
+                          VPOS="705"
+                          HPOS="3848"
+                          CONTENT="London."/>
+               </TextLine>
+               <TextLine ID="r2l6"
+                         BASELINE="2904,944 2985,935 3067,928 3148,921 3230,913 3311,908 3393,902 3474,896 3556,892 3637,888 3719,882 3800,880 3882,876 3963,872 4045,870 4126,866 4208,864 4289,862 4371,859 4452,856 4534,854"
+                         HEIGHT="169"
+                         WIDTH="1630"
+                         VPOS="801"
+                         HPOS="2904">
+                  <String HEIGHT="169"
+                          WIDTH="239"
+                          VPOS="801"
+                          HPOS="2864"
+                          CONTENT="På"/>
+                  <SP HEIGHT="169" WIDTH="40" VPOS="801" HPOS="3103"/>
+                  <String HEIGHT="169"
+                          WIDTH="358"
+                          VPOS="801"
+                          HPOS="2984"
+                          CONTENT="grund"/>
+                  <SP HEIGHT="169" WIDTH="40" VPOS="801" HPOS="3341"/>
+                  <String HEIGHT="169"
+                          WIDTH="239"
+                          VPOS="801"
+                          HPOS="3222"
+                          CONTENT="af"/>
+                  <SP HEIGHT="169" WIDTH="40" VPOS="801" HPOS="3461"/>
+                  <String HEIGHT="169"
+                          WIDTH="318"
+                          VPOS="801"
+                          HPOS="3341"
+                          CONTENT="hvad"/>
+                  <SP HEIGHT="169" WIDTH="40" VPOS="801" HPOS="3659"/>
+                  <String HEIGHT="169"
+                          WIDTH="437"
+                          VPOS="801"
+                          HPOS="3540"
+                          CONTENT="sålunda"/>
+                  <SP HEIGHT="169" WIDTH="40" VPOS="801" HPOS="3977"/>
+                  <String HEIGHT="169"
+                          WIDTH="557"
+                          VPOS="801"
+                          HPOS="3858"
+                          CONTENT="förekommit"/>
+                  <SP HEIGHT="169" WIDTH="40" VPOS="801" HPOS="4415"/>
+                  <String HEIGHT="169"
+                          WIDTH="278"
+                          VPOS="801"
+                          HPOS="4256"
+                          CONTENT="komma"/>
+               </TextLine>
+               <TextLine ID="r2l7"
+                         BASELINE="2760,1060 2851,1053 2943,1045 3035,1038 3127,1032 3219,1026 3311,1019 3403,1013 3495,1008 3587,1002 3679,997 3770,991 3862,987 3954,982 4046,978 4138,975 4230,972 4322,968 4414,966 4506,964 4598,962"
+                         HEIGHT="177"
+                         WIDTH="1838"
+                         VPOS="909"
+                         HPOS="2760">
+                  <String HEIGHT="177"
+                          WIDTH="285"
+                          VPOS="909"
+                          HPOS="2728"
+                          CONTENT="Claes"/>
+                  <SP HEIGHT="177" WIDTH="32" VPOS="909" HPOS="3014"/>
+                  <String HEIGHT="177"
+                          WIDTH="444"
+                          VPOS="909"
+                          HPOS="2918"
+                          CONTENT="Johansson,"/>
+                  <SP HEIGHT="177" WIDTH="32" VPOS="909" HPOS="3362"/>
+                  <String HEIGHT="177"
+                          WIDTH="285"
+                          VPOS="909"
+                          HPOS="3267"
+                          CONTENT="Johan"/>
+                  <SP HEIGHT="177" WIDTH="32" VPOS="909" HPOS="3552"/>
+                  <String HEIGHT="177"
+                          WIDTH="349"
+                          VPOS="909"
+                          HPOS="3457"
+                          CONTENT="Persson"/>
+                  <SP HEIGHT="177" WIDTH="32" VPOS="909" HPOS="3806"/>
+                  <String HEIGHT="177"
+                          WIDTH="222"
+                          VPOS="909"
+                          HPOS="3711"
+                          CONTENT="och"/>
+                  <SP HEIGHT="177" WIDTH="32" VPOS="909" HPOS="3933"/>
+                  <String HEIGHT="177"
+                          WIDTH="317"
+                          VPOS="909"
+                          HPOS="3837"
+                          CONTENT="Petrus"/>
+                  <SP HEIGHT="177" WIDTH="32" VPOS="909" HPOS="4154"/>
+                  <String HEIGHT="177"
+                          WIDTH="317"
+                          VPOS="909"
+                          HPOS="4059"
+                          CONTENT="Dahlin"/>
+                  <SP HEIGHT="177" WIDTH="32" VPOS="909" HPOS="4376"/>
+                  <String HEIGHT="177"
+                          WIDTH="222"
+                          VPOS="909"
+                          HPOS="4281"
+                          CONTENT="att"/>
+                  <SP HEIGHT="177" WIDTH="32" VPOS="909" HPOS="4503"/>
+                  <String HEIGHT="177"
+                          WIDTH="222"
+                          VPOS="909"
+                          HPOS="4376"
+                          CONTENT="denna"/>
+               </TextLine>
+               <TextLine ID="line_1584547176041_5282"
+                         BASELINE="2761,1186 3064,1154 3428,1131 3758,1120 4084,1099 4553,1088"
+                         HEIGHT="148"
+                         WIDTH="1797"
+                         VPOS="1043"
+                         HPOS="2756">
+                  <String HEIGHT="148"
+                          WIDTH="237"
+                          VPOS="1043"
+                          HPOS="2722"
+                          CONTENT="dag"/>
+                  <SP HEIGHT="148" WIDTH="34" VPOS="1043" HPOS="2959"/>
+                  <String HEIGHT="148"
+                          WIDTH="237"
+                          VPOS="1043"
+                          HPOS="2858"
+                          CONTENT="för"/>
+                  <SP HEIGHT="148" WIDTH="34" VPOS="1043" HPOS="3095"/>
+                  <String HEIGHT="148"
+                          WIDTH="237"
+                          VPOS="1043"
+                          HPOS="2993"
+                          CONTENT="PKn"/>
+                  <SP HEIGHT="148" WIDTH="34" VPOS="1043" HPOS="3231"/>
+                  <String HEIGHT="148"
+                          WIDTH="475"
+                          VPOS="1043"
+                          HPOS="3129"
+                          CONTENT="inställas."/>
+                  <SP HEIGHT="148" WIDTH="34" VPOS="1043" HPOS="3604"/>
+                  <String HEIGHT="148"
+                          WIDTH="407"
+                          VPOS="1043"
+                          HPOS="3502"
+                          CONTENT="Göteborg"/>
+                  <SP HEIGHT="148" WIDTH="34" VPOS="1043" HPOS="3909"/>
+                  <String HEIGHT="148"
+                          WIDTH="237"
+                          VPOS="1043"
+                          HPOS="3807"
+                          CONTENT="den"/>
+                  <SP HEIGHT="148" WIDTH="34" VPOS="1043" HPOS="4044"/>
+                  <String HEIGHT="148"
+                          WIDTH="203"
+                          VPOS="1043"
+                          HPOS="3943"
+                          CONTENT="20"/>
+                  <SP HEIGHT="148" WIDTH="34" VPOS="1043" HPOS="4146"/>
+                  <String HEIGHT="148"
+                          WIDTH="407"
+                          VPOS="1043"
+                          HPOS="4044"
+                          CONTENT="Februari"/>
+                  <SP HEIGHT="148" WIDTH="34" VPOS="1043" HPOS="4451"/>
+                  <String HEIGHT="148"
+                          WIDTH="237"
+                          VPOS="1043"
+                          HPOS="4316"
+                          CONTENT="1880."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r3" HEIGHT="240" WIDTH="428" VPOS="1117" HPOS="4604">
+               <Shape>
+                  <Polygon POINTS="4608,1117 4604,1357 5032,1330 5018,1117"/>
+               </Shape>
+               <TextLine ID="r3l1"
+                         BASELINE="4622,1184 4647,1182 4672,1182 4698,1179 4723,1178 4748,1177 4774,1176 4799,1175 4824,1174 4850,1175 4875,1176 4900,1177 4926,1180"
+                         HEIGHT="95"
+                         WIDTH="304"
+                         VPOS="1117"
+                         HPOS="4622">
+                  <String HEIGHT="95"
+                          WIDTH="304"
+                          VPOS="1117"
+                          HPOS="4571"
+                          CONTENT="No"/>
+                  <SP HEIGHT="95" WIDTH="51" VPOS="1117" HPOS="4875"/>
+                  <String HEIGHT="95"
+                          WIDTH="253"
+                          VPOS="1117"
+                          HPOS="4673"
+                          CONTENT="36."/>
+               </TextLine>
+               <TextLine ID="r3l2"
+                         BASELINE="4608,1312 4633,1309 4659,1306 4684,1303 4710,1301 4736,1299 4761,1297 4787,1296 4813,1294 4838,1294 4864,1294 4889,1292 4915,1292 4941,1292 4966,1292 4992,1292 5018,1292"
+                         HEIGHT="104"
+                         WIDTH="410"
+                         VPOS="1236"
+                         HPOS="4608">
+                  <String HEIGHT="104"
+                          WIDTH="246"
+                          VPOS="1236"
+                          HPOS="4581"
+                          CONTENT="Johan"/>
+                  <SP HEIGHT="104" WIDTH="27" VPOS="1236" HPOS="4827"/>
+                  <String HEIGHT="104"
+                          WIDTH="301"
+                          VPOS="1236"
+                          HPOS="4717"
+                          CONTENT="Arvidsson"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1584547152184_5276"
+                       HEIGHT="2735"
+                       WIDTH="1905"
+                       VPOS="1154"
+                       HPOS="2716">
+               <Shape>
+                  <Polygon POINTS="2718,1213 4621,1154 4618,3889 2716,3889"/>
+               </Shape>
+               <TextLine ID="r2l9"
+                         BASELINE="2814,1278 2901,1272 2988,1268 3075,1263 3162,1260 3250,1256 3337,1254 3424,1252 3511,1250 3598,1250 3686,1248 3773,1248 3860,1247 3947,1246 4034,1246 4122,1244 4209,1242 4296,1240 4383,1238 4470,1235 4558,1230"
+                         HEIGHT="129"
+                         WIDTH="1744"
+                         VPOS="1176"
+                         HPOS="2814">
+                  <String HEIGHT="129"
+                          WIDTH="559"
+                          VPOS="1176"
+                          HPOS="2781"
+                          CONTENT="Smedarbetaren"/>
+                  <SP HEIGHT="129" WIDTH="33" VPOS="1176" HPOS="3340"/>
+                  <String HEIGHT="129"
+                          WIDTH="263"
+                          VPOS="1176"
+                          HPOS="3242"
+                          CONTENT="Axel"/>
+                  <SP HEIGHT="129" WIDTH="33" VPOS="1176" HPOS="3505"/>
+                  <String HEIGHT="129"
+                          WIDTH="329"
+                          VPOS="1176"
+                          HPOS="3406"
+                          CONTENT="August"/>
+                  <SP HEIGHT="129" WIDTH="33" VPOS="1176" HPOS="3735"/>
+                  <String HEIGHT="129"
+                          WIDTH="329"
+                          VPOS="1176"
+                          HPOS="3637"
+                          CONTENT="Nyman,"/>
+                  <SP HEIGHT="129" WIDTH="33" VPOS="1176" HPOS="3966"/>
+                  <String HEIGHT="129"
+                          WIDTH="329"
+                          VPOS="1176"
+                          HPOS="3867"
+                          CONTENT="boende"/>
+                  <SP HEIGHT="129" WIDTH="33" VPOS="1176" HPOS="4196"/>
+                  <String HEIGHT="129"
+                          WIDTH="165"
+                          VPOS="1176"
+                          HPOS="4097"
+                          CONTENT="i"/>
+                  <SP HEIGHT="129" WIDTH="33" VPOS="1176" HPOS="4262"/>
+                  <String HEIGHT="129"
+                          WIDTH="296"
+                          VPOS="1176"
+                          HPOS="4163"
+                          CONTENT="huset"/>
+                  <SP HEIGHT="129" WIDTH="33" VPOS="1176" HPOS="4459"/>
+                  <String HEIGHT="129"
+                          WIDTH="197"
+                          VPOS="1176"
+                          HPOS="4361"
+                          CONTENT="No"/>
+                  <SP HEIGHT="129" WIDTH="33" VPOS="1176" HPOS="4558"/>
+                  <String HEIGHT="129"
+                          WIDTH="132"
+                          VPOS="1176"
+                          HPOS="4426"
+                          CONTENT="22"/>
+               </TextLine>
+               <TextLine ID="r2l10"
+                         BASELINE="2748,1400 2837,1394 2926,1389 3015,1383 3104,1378 3193,1374 3282,1370 3371,1366 3460,1362 3549,1359 3639,1356 3728,1354 3817,1352 3906,1349 3995,1348 4084,1346 4173,1344 4262,1342 4351,1340 4440,1338 4530,1338"
+                         HEIGHT="143"
+                         WIDTH="1782"
+                         VPOS="1284"
+                         HPOS="2748">
+                  <String HEIGHT="143"
+                          WIDTH="235"
+                          VPOS="1284"
+                          HPOS="2714"
+                          CONTENT="vid"/>
+                  <SP HEIGHT="143" WIDTH="34" VPOS="1284" HPOS="2950"/>
+                  <String HEIGHT="143"
+                          WIDTH="471"
+                          VPOS="1284"
+                          HPOS="2849"
+                          CONTENT="Bergsgatan"/>
+                  <SP HEIGHT="143" WIDTH="34" VPOS="1284" HPOS="3320"/>
+                  <String HEIGHT="143"
+                          WIDTH="235"
+                          VPOS="1284"
+                          HPOS="3219"
+                          CONTENT="har"/>
+                  <SP HEIGHT="143" WIDTH="34" VPOS="1284" HPOS="3454"/>
+                  <String HEIGHT="143"
+                          WIDTH="403"
+                          VPOS="1284"
+                          HPOS="3353"
+                          CONTENT="Onsdagen"/>
+                  <SP HEIGHT="143" WIDTH="34" VPOS="1284" HPOS="3757"/>
+                  <String HEIGHT="143"
+                          WIDTH="235"
+                          VPOS="1284"
+                          HPOS="3656"
+                          CONTENT="den"/>
+                  <SP HEIGHT="143" WIDTH="34" VPOS="1284" HPOS="3891"/>
+                  <String HEIGHT="143"
+                          WIDTH="202"
+                          VPOS="1284"
+                          HPOS="3790"
+                          CONTENT="18"/>
+                  <SP HEIGHT="143" WIDTH="34" VPOS="1284" HPOS="3992"/>
+                  <String HEIGHT="143"
+                          WIDTH="336"
+                          VPOS="1284"
+                          HPOS="3891"
+                          CONTENT="dennes"/>
+                  <SP HEIGHT="143" WIDTH="34" VPOS="1284" HPOS="4227"/>
+                  <String HEIGHT="143"
+                          WIDTH="370"
+                          VPOS="1284"
+                          HPOS="4127"
+                          CONTENT="anmält,"/>
+                  <SP HEIGHT="143" WIDTH="34" VPOS="1284" HPOS="4496"/>
+                  <String HEIGHT="143"
+                          WIDTH="168"
+                          VPOS="1284"
+                          HPOS="4362"
+                          CONTENT="att"/>
+               </TextLine>
+               <TextLine ID="r2l11"
+                         BASELINE="2736,1516 2828,1510 2920,1505 3012,1498 3104,1493 3196,1488 3288,1484 3380,1479 3472,1474 3564,1471 3657,1468 3749,1464 3841,1460 3933,1457 4025,1454 4117,1451 4209,1448 4301,1446 4393,1442 4485,1440 4578,1438"
+                         HEIGHT="159"
+                         WIDTH="1842"
+                         VPOS="1384"
+                         HPOS="2736">
+                  <String HEIGHT="159"
+                          WIDTH="556"
+                          VPOS="1384"
+                          HPOS="2701"
+                          CONTENT="derförgångne"/>
+                  <SP HEIGHT="159" WIDTH="35" VPOS="1384" HPOS="3257"/>
+                  <String HEIGHT="159"
+                          WIDTH="243"
+                          VPOS="1384"
+                          HPOS="3153"
+                          CONTENT="dag"/>
+                  <SP HEIGHT="159" WIDTH="35" VPOS="1384" HPOS="3396"/>
+                  <String HEIGHT="159"
+                          WIDTH="209"
+                          VPOS="1384"
+                          HPOS="3292"
+                          CONTENT="på"/>
+                  <SP HEIGHT="159" WIDTH="35" VPOS="1384" HPOS="3501"/>
+                  <String HEIGHT="159"
+                          WIDTH="278"
+                          VPOS="1384"
+                          HPOS="3396"
+                          CONTENT="e.m."/>
+                  <SP HEIGHT="159" WIDTH="35" VPOS="1384" HPOS="3674"/>
+                  <String HEIGHT="159"
+                          WIDTH="174"
+                          VPOS="1384"
+                          HPOS="3570"
+                          CONTENT="i"/>
+                  <SP HEIGHT="159" WIDTH="35" VPOS="1384" HPOS="3744"/>
+                  <String HEIGHT="159"
+                          WIDTH="348"
+                          VPOS="1384"
+                          HPOS="3640"
+                          CONTENT="gården"/>
+                  <SP HEIGHT="159" WIDTH="35" VPOS="1384" HPOS="3987"/>
+                  <String HEIGHT="159"
+                          WIDTH="278"
+                          VPOS="1384"
+                          HPOS="3883"
+                          CONTENT="till"/>
+                  <SP HEIGHT="159" WIDTH="35" VPOS="1384" HPOS="4161"/>
+                  <String HEIGHT="159"
+                          WIDTH="313"
+                          VPOS="1384"
+                          HPOS="4057"
+                          CONTENT="sagde"/>
+                  <SP HEIGHT="159" WIDTH="35" VPOS="1384" HPOS="4369"/>
+                  <String HEIGHT="159"
+                          WIDTH="243"
+                          VPOS="1384"
+                          HPOS="4265"
+                          CONTENT="hus"/>
+                  <SP HEIGHT="159" WIDTH="35" VPOS="1384" HPOS="4508"/>
+                  <String HEIGHT="159"
+                          WIDTH="209"
+                          VPOS="1384"
+                          HPOS="4369"
+                          CONTENT="från"/>
+               </TextLine>
+               <TextLine ID="r2l12"
+                         BASELINE="2738,1630 2829,1624 2920,1618 3011,1612 3102,1606 3193,1600 3284,1596 3375,1590 3466,1586 3557,1582 3648,1576 3739,1573 3830,1569 3921,1564 4012,1561 4103,1557 4194,1554 4285,1549 4376,1546 4467,1542 4558,1538"
+                         HEIGHT="171"
+                         WIDTH="1820"
+                         VPOS="1485"
+                         HPOS="2738">
+                  <String HEIGHT="171"
+                          WIDTH="278"
+                          VPOS="1485"
+                          HPOS="2707"
+                          CONTENT="honom"/>
+                  <SP HEIGHT="171" WIDTH="31" VPOS="1485" HPOS="2985"/>
+                  <String HEIGHT="171"
+                          WIDTH="463"
+                          VPOS="1485"
+                          HPOS="2892"
+                          CONTENT="tillgripits"/>
+                  <SP HEIGHT="171" WIDTH="31" VPOS="1485" HPOS="3355"/>
+                  <String HEIGHT="171"
+                          WIDTH="185"
+                          VPOS="1485"
+                          HPOS="3262"
+                          CONTENT="en"/>
+                  <SP HEIGHT="171" WIDTH="31" VPOS="1485" HPOS="3447"/>
+                  <String HEIGHT="171"
+                          WIDTH="370"
+                          VPOS="1485"
+                          HPOS="3355"
+                          CONTENT="mörkbrun"/>
+                  <SP HEIGHT="171" WIDTH="31" VPOS="1485" HPOS="3725"/>
+                  <String HEIGHT="171"
+                          WIDTH="432"
+                          VPOS="1485"
+                          HPOS="3633"
+                          CONTENT="ylletröja,"/>
+                  <SP HEIGHT="171" WIDTH="31" VPOS="1485" HPOS="4064"/>
+                  <String HEIGHT="171"
+                          WIDTH="247"
+                          VPOS="1485"
+                          HPOS="3972"
+                          CONTENT="värd"/>
+                  <SP HEIGHT="171" WIDTH="31" VPOS="1485" HPOS="4219"/>
+                  <String HEIGHT="171"
+                          WIDTH="154"
+                          VPOS="1485"
+                          HPOS="4126"
+                          CONTENT="2"/>
+                  <SP HEIGHT="171" WIDTH="31" VPOS="1485" HPOS="4280"/>
+                  <String HEIGHT="171"
+                          WIDTH="339"
+                          VPOS="1485"
+                          HPOS="4188"
+                          CONTENT="Kronor,"/>
+                  <SP HEIGHT="171" WIDTH="31" VPOS="1485" HPOS="4527"/>
+                  <String HEIGHT="171"
+                          WIDTH="154"
+                          VPOS="1485"
+                          HPOS="4404"
+                          CONTENT="ett"/>
+               </TextLine>
+               <TextLine ID="r2l13"
+                         BASELINE="2746,1736 2837,1732 2928,1728 3019,1723 3110,1718 3202,1712 3293,1707 3384,1701 3475,1696 3566,1690 3658,1685 3749,1680 3840,1676 3931,1671 4022,1668 4114,1664 4205,1662 4296,1660 4387,1659 4478,1658 4570,1660"
+                         HEIGHT="156"
+                         WIDTH="1824"
+                         VPOS="1606"
+                         HPOS="2746">
+                  <String HEIGHT="156"
+                          WIDTH="213"
+                          VPOS="1606"
+                          HPOS="2716"
+                          CONTENT="par"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1606" HPOS="2928"/>
+                  <String HEIGHT="156"
+                          WIDTH="274"
+                          VPOS="1606"
+                          HPOS="2837"
+                          CONTENT="hvita"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1606" HPOS="3111"/>
+                  <String HEIGHT="156"
+                          WIDTH="547"
+                          VPOS="1606"
+                          HPOS="3020"
+                          CONTENT="yllekalsonger,"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1606" HPOS="3567"/>
+                  <String HEIGHT="156"
+                          WIDTH="274"
+                          VPOS="1606"
+                          HPOS="3476"
+                          CONTENT="värde"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1606" HPOS="3749"/>
+                  <String HEIGHT="156"
+                          WIDTH="152"
+                          VPOS="1606"
+                          HPOS="3658"
+                          CONTENT="2"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1606" HPOS="3810"/>
+                  <String HEIGHT="156"
+                          WIDTH="304"
+                          VPOS="1606"
+                          HPOS="3719"
+                          CONTENT="Kronor"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1606" HPOS="4023"/>
+                  <String HEIGHT="156"
+                          WIDTH="243"
+                          VPOS="1606"
+                          HPOS="3932"
+                          CONTENT="samt"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1606" HPOS="4175"/>
+                  <String HEIGHT="156"
+                          WIDTH="213"
+                          VPOS="1606"
+                          HPOS="4084"
+                          CONTENT="ett"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1606" HPOS="4296"/>
+                  <String HEIGHT="156"
+                          WIDTH="274"
+                          VPOS="1606"
+                          HPOS="4205"
+                          CONTENT="hvitt"/>
+                  <SP HEIGHT="156" WIDTH="30" VPOS="1606" HPOS="4479"/>
+                  <String HEIGHT="156"
+                          WIDTH="213"
+                          VPOS="1606"
+                          HPOS="4357"
+                          CONTENT="ylle¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="yllelif"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r2l14"
+                         BASELINE="2742,1844 2835,1839 2929,1834 3022,1830 3116,1825 3209,1820 3303,1816 3396,1810 3490,1807 3583,1802 3677,1798 3770,1794 3864,1790 3957,1786 4051,1782 4144,1780 4238,1776 4331,1773 4425,1770 4518,1768 4612,1766"
+                         HEIGHT="156"
+                         WIDTH="1870"
+                         VPOS="1714"
+                         HPOS="2742">
+                  <String HEIGHT="156"
+                          WIDTH="218"
+                          VPOS="1714"
+                          HPOS="2711"
+                          CONTENT="lif"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="yllelif"/>
+                  <SP HEIGHT="156" WIDTH="31" VPOS="1714" HPOS="2929"/>
+                  <String HEIGHT="156"
+                          WIDTH="218"
+                          VPOS="1714"
+                          HPOS="2836"
+                          CONTENT="och"/>
+                  <SP HEIGHT="156" WIDTH="31" VPOS="1714" HPOS="3054"/>
+                  <String HEIGHT="156"
+                          WIDTH="218"
+                          VPOS="1714"
+                          HPOS="2960"
+                          CONTENT="ett"/>
+                  <SP HEIGHT="156" WIDTH="31" VPOS="1714" HPOS="3178"/>
+                  <String HEIGHT="156"
+                          WIDTH="218"
+                          VPOS="1714"
+                          HPOS="3085"
+                          CONTENT="par"/>
+                  <SP HEIGHT="156" WIDTH="31" VPOS="1714" HPOS="3303"/>
+                  <String HEIGHT="156"
+                          WIDTH="281"
+                          VPOS="1714"
+                          HPOS="3210"
+                          CONTENT="byxor"/>
+                  <SP HEIGHT="156" WIDTH="31" VPOS="1714" HPOS="3490"/>
+                  <String HEIGHT="156"
+                          WIDTH="187"
+                          VPOS="1714"
+                          HPOS="3397"
+                          CONTENT="af"/>
+                  <SP HEIGHT="156" WIDTH="31" VPOS="1714" HPOS="3584"/>
+                  <String HEIGHT="156"
+                          WIDTH="281"
+                          VPOS="1714"
+                          HPOS="3490"
+                          CONTENT="blått"/>
+                  <SP HEIGHT="156" WIDTH="31" VPOS="1714" HPOS="3771"/>
+                  <String HEIGHT="156"
+                          WIDTH="468"
+                          VPOS="1714"
+                          HPOS="3677"
+                          CONTENT="bomullstyg,"/>
+                  <SP HEIGHT="156" WIDTH="31" VPOS="1714" HPOS="4145"/>
+                  <String HEIGHT="156"
+                          WIDTH="468"
+                          VPOS="1714"
+                          HPOS="4051"
+                          CONTENT="tillsammans"/>
+                  <SP HEIGHT="156" WIDTH="31" VPOS="1714" HPOS="4519"/>
+                  <String HEIGHT="156"
+                          WIDTH="218"
+                          VPOS="1714"
+                          HPOS="4394"
+                          CONTENT="värde"/>
+               </TextLine>
+               <TextLine ID="r2l15"
+                         BASELINE="2742,1964 2768,1964 2794,1964 2820,1963 2846,1961 2873,1959 2899,1958 2925,1956 2951,1954 2978,1951 3004,1949 3030,1948 3056,1946 3082,1944 3109,1942 3135,1940 3161,1940 3187,1939 3214,1938"
+                         HEIGHT="95"
+                         WIDTH="472"
+                         VPOS="1892"
+                         HPOS="2742">
+                  <String HEIGHT="95"
+                          WIDTH="177"
+                          VPOS="1892"
+                          HPOS="2713"
+                          CONTENT="En"/>
+                  <SP HEIGHT="95" WIDTH="30" VPOS="1892" HPOS="2890"/>
+                  <String HEIGHT="95"
+                          WIDTH="266"
+                          VPOS="1892"
+                          HPOS="2801"
+                          CONTENT="Krona"/>
+                  <SP HEIGHT="95" WIDTH="30" VPOS="1892" HPOS="3067"/>
+                  <String HEIGHT="95"
+                          WIDTH="177"
+                          VPOS="1892"
+                          HPOS="2978"
+                          CONTENT="50"/>
+                  <SP HEIGHT="95" WIDTH="30" VPOS="1892" HPOS="3155"/>
+                  <String HEIGHT="95"
+                          WIDTH="177"
+                          VPOS="1892"
+                          HPOS="3037"
+                          CONTENT="öre,"/>
+               </TextLine>
+               <TextLine ID="r2l16"
+                         BASELINE="2880,2052 2966,2050 3053,2046 3140,2042 3226,2038 3313,2035 3400,2031 3486,2026 3573,2021 3660,2016 3747,2012 3833,2007 3920,2002 4007,1996 4093,1993 4180,1988 4267,1983 4353,1979 4440,1976 4527,1972 4614,1968"
+                         HEIGHT="153"
+                         WIDTH="1734"
+                         VPOS="1922"
+                         HPOS="2880">
+                  <String HEIGHT="153"
+                          WIDTH="393"
+                          VPOS="1922"
+                          HPOS="2847"
+                          CONTENT="Lördagen"/>
+                  <SP HEIGHT="153" WIDTH="33" VPOS="1922" HPOS="3240"/>
+                  <String HEIGHT="153"
+                          WIDTH="229"
+                          VPOS="1922"
+                          HPOS="3142"
+                          CONTENT="den"/>
+                  <SP HEIGHT="153" WIDTH="33" VPOS="1922" HPOS="3371"/>
+                  <String HEIGHT="153"
+                          WIDTH="196"
+                          VPOS="1922"
+                          HPOS="3273"
+                          CONTENT="21"/>
+                  <SP HEIGHT="153" WIDTH="33" VPOS="1922" HPOS="3469"/>
+                  <String HEIGHT="153"
+                          WIDTH="327"
+                          VPOS="1922"
+                          HPOS="3371"
+                          CONTENT="dennes"/>
+                  <SP HEIGHT="153" WIDTH="33" VPOS="1922" HPOS="3698"/>
+                  <String HEIGHT="153"
+                          WIDTH="196"
+                          VPOS="1922"
+                          HPOS="3600"
+                          CONTENT="på"/>
+                  <SP HEIGHT="153" WIDTH="33" VPOS="1922" HPOS="3796"/>
+                  <String HEIGHT="153"
+                          WIDTH="327"
+                          VPOS="1922"
+                          HPOS="3698"
+                          CONTENT="f.midd"/>
+                  <SP HEIGHT="153" WIDTH="33" VPOS="1922" HPOS="4025"/>
+                  <String HEIGHT="153"
+                          WIDTH="327"
+                          VPOS="1922"
+                          HPOS="3927"
+                          CONTENT="infann"/>
+                  <SP HEIGHT="153" WIDTH="33" VPOS="1922" HPOS="4254"/>
+                  <String HEIGHT="153"
+                          WIDTH="229"
+                          VPOS="1922"
+                          HPOS="4156"
+                          CONTENT="sig"/>
+                  <SP HEIGHT="153" WIDTH="33" VPOS="1922" HPOS="4385"/>
+                  <String HEIGHT="153"
+                          WIDTH="360"
+                          VPOS="1922"
+                          HPOS="4254"
+                          CONTENT="Fiskhand¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="Fiskhandlanden"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r2l17"
+                         BASELINE="2736,2186 2827,2180 2918,2175 3009,2169 3100,2163 3192,2158 3283,2154 3374,2148 3465,2143 3556,2138 3648,2132 3739,2128 3830,2122 3921,2117 4012,2112 4104,2108 4195,2102 4286,2096 4377,2092 4468,2086 4560,2080"
+                         HEIGHT="187"
+                         WIDTH="1824"
+                         VPOS="2026"
+                         HPOS="2736">
+                  <String HEIGHT="187"
+                          WIDTH="326"
+                          VPOS="2026"
+                          HPOS="2703"
+                          CONTENT="landen"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="Fiskhandlanden"/>
+                  <SP HEIGHT="187" WIDTH="33" VPOS="2026" HPOS="3029"/>
+                  <String HEIGHT="187"
+                          WIDTH="358"
+                          VPOS="2026"
+                          HPOS="2931"
+                          CONTENT="Wilhelm"/>
+                  <SP HEIGHT="187" WIDTH="33" VPOS="2026" HPOS="3290"/>
+                  <String HEIGHT="187"
+                          WIDTH="326"
+                          VPOS="2026"
+                          HPOS="3192"
+                          CONTENT="Henrik"/>
+                  <SP HEIGHT="187" WIDTH="33" VPOS="2026" HPOS="3518"/>
+                  <String HEIGHT="187"
+                          WIDTH="358"
+                          VPOS="2026"
+                          HPOS="3420"
+                          CONTENT="Breyel,"/>
+                  <SP HEIGHT="187" WIDTH="33" VPOS="2026" HPOS="3778"/>
+                  <String HEIGHT="187"
+                          WIDTH="326"
+                          VPOS="2026"
+                          HPOS="3681"
+                          CONTENT="boende"/>
+                  <SP HEIGHT="187" WIDTH="33" VPOS="2026" HPOS="4006"/>
+                  <String HEIGHT="187"
+                          WIDTH="163"
+                          VPOS="2026"
+                          HPOS="3909"
+                          CONTENT="i"/>
+                  <SP HEIGHT="187" WIDTH="33" VPOS="2026" HPOS="4071"/>
+                  <String HEIGHT="187"
+                          WIDTH="521"
+                          VPOS="2026"
+                          HPOS="3974"
+                          CONTENT="Tunnbindaren"/>
+                  <SP HEIGHT="187" WIDTH="33" VPOS="2026" HPOS="4495"/>
+                  <String HEIGHT="187"
+                          WIDTH="195"
+                          VPOS="2026"
+                          HPOS="4365"
+                          CONTENT="Ols¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="Olssons"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r2l18"
+                         BASELINE="2750,2296 2841,2292 2932,2286 3024,2282 3115,2277 3207,2271 3298,2266 3389,2262 3481,2256 3572,2251 3664,2246 3755,2241 3846,2236 3938,2232 4029,2227 4121,2224 4212,2220 4303,2216 4395,2212 4486,2209 4578,2206"
+                         HEIGHT="171"
+                         WIDTH="1828"
+                         VPOS="2152"
+                         HPOS="2750">
+                  <String HEIGHT="171"
+                          WIDTH="266"
+                          VPOS="2152"
+                          HPOS="2717"
+                          CONTENT="sons"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="Olssons"/>
+                  <SP HEIGHT="171" WIDTH="33" VPOS="2152" HPOS="2983"/>
+                  <String HEIGHT="171"
+                          WIDTH="233"
+                          VPOS="2152"
+                          HPOS="2883"
+                          CONTENT="hus"/>
+                  <SP HEIGHT="171" WIDTH="33" VPOS="2152" HPOS="3116"/>
+                  <String HEIGHT="171"
+                          WIDTH="166"
+                          VPOS="2152"
+                          HPOS="3016"
+                          CONTENT="i"/>
+                  <SP HEIGHT="171" WIDTH="33" VPOS="2152" HPOS="3182"/>
+                  <String HEIGHT="171"
+                          WIDTH="366"
+                          VPOS="2152"
+                          HPOS="3082"
+                          CONTENT="Mölndal"/>
+                  <SP HEIGHT="171" WIDTH="33" VPOS="2152" HPOS="3448"/>
+                  <String HEIGHT="171"
+                          WIDTH="166"
+                          VPOS="2152"
+                          HPOS="3348"
+                          CONTENT="å"/>
+                  <SP HEIGHT="171" WIDTH="33" VPOS="2152" HPOS="3514"/>
+                  <String HEIGHT="171"
+                          WIDTH="499"
+                          VPOS="2152"
+                          HPOS="3415"
+                          CONTENT="Pantlånaren"/>
+                  <SP HEIGHT="171" WIDTH="33" VPOS="2152" HPOS="3913"/>
+                  <String HEIGHT="171"
+                          WIDTH="199"
+                          VPOS="2152"
+                          HPOS="3814"
+                          CONTENT="W."/>
+                  <SP HEIGHT="171" WIDTH="33" VPOS="2152" HPOS="4013"/>
+                  <String HEIGHT="171"
+                          WIDTH="332"
+                          VPOS="2152"
+                          HPOS="3913"
+                          CONTENT="Karths"/>
+                  <SP HEIGHT="171" WIDTH="33" VPOS="2152" HPOS="4246"/>
+                  <String HEIGHT="171"
+                          WIDTH="465"
+                          VPOS="2152"
+                          HPOS="4113"
+                          CONTENT="Pantlånekon¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="Pantlånekontor"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r2l19"
+                         BASELINE="2734,2416 2826,2411 2919,2404 3011,2396 3104,2392 3197,2385 3289,2380 3382,2374 3474,2368 3567,2364 3660,2359 3752,2355 3845,2350 3937,2348 4030,2344 4123,2340 4215,2338 4308,2335 4400,2332 4493,2330 4586,2330"
+                         HEIGHT="167"
+                         WIDTH="1852"
+                         VPOS="2276"
+                         HPOS="2734">
+                  <String HEIGHT="167"
+                          WIDTH="213"
+                          VPOS="2276"
+                          HPOS="2704"
+                          CONTENT="tor"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="Pantlånekontor"/>
+                  <SP HEIGHT="167" WIDTH="30" VPOS="2276" HPOS="2916"/>
+                  <String HEIGHT="167"
+                          WIDTH="152"
+                          VPOS="2276"
+                          HPOS="2825"
+                          CONTENT="i"/>
+                  <SP HEIGHT="167" WIDTH="30" VPOS="2276" HPOS="2977"/>
+                  <String HEIGHT="167"
+                          WIDTH="273"
+                          VPOS="2276"
+                          HPOS="2886"
+                          CONTENT="huset"/>
+                  <SP HEIGHT="167" WIDTH="30" VPOS="2276" HPOS="3159"/>
+                  <String HEIGHT="167"
+                          WIDTH="182"
+                          VPOS="2276"
+                          HPOS="3068"
+                          CONTENT="No"/>
+                  <SP HEIGHT="167" WIDTH="30" VPOS="2276" HPOS="3250"/>
+                  <String HEIGHT="167"
+                          WIDTH="152"
+                          VPOS="2276"
+                          HPOS="3159"
+                          CONTENT="5"/>
+                  <SP HEIGHT="167" WIDTH="30" VPOS="2276" HPOS="3311"/>
+                  <String HEIGHT="167"
+                          WIDTH="213"
+                          VPOS="2276"
+                          HPOS="3220"
+                          CONTENT="vid"/>
+                  <SP HEIGHT="167" WIDTH="30" VPOS="2276" HPOS="3432"/>
+                  <String HEIGHT="167"
+                          WIDTH="395"
+                          VPOS="2276"
+                          HPOS="3341"
+                          CONTENT="Vallgatan"/>
+                  <SP HEIGHT="167" WIDTH="30" VPOS="2276" HPOS="3736"/>
+                  <String HEIGHT="167"
+                          WIDTH="213"
+                          VPOS="2276"
+                          HPOS="3645"
+                          CONTENT="och"/>
+                  <SP HEIGHT="167" WIDTH="30" VPOS="2276" HPOS="3857"/>
+                  <String HEIGHT="167"
+                          WIDTH="334"
+                          VPOS="2276"
+                          HPOS="3766"
+                          CONTENT="begärde"/>
+                  <SP HEIGHT="167" WIDTH="30" VPOS="2276" HPOS="4100"/>
+                  <String HEIGHT="167"
+                          WIDTH="213"
+                          VPOS="2276"
+                          HPOS="4009"
+                          CONTENT="med"/>
+                  <SP HEIGHT="167" WIDTH="30" VPOS="2276" HPOS="4222"/>
+                  <String HEIGHT="167"
+                          WIDTH="455"
+                          VPOS="2276"
+                          HPOS="4131"
+                          CONTENT="förevisande"/>
+                  <SP HEIGHT="167" WIDTH="30" VPOS="2276" HPOS="4586"/>
+                  <String HEIGHT="167"
+                          WIDTH="121"
+                          VPOS="2276"
+                          HPOS="4465"
+                          CONTENT="af"/>
+               </TextLine>
+               <TextLine ID="r2l20"
+                         BASELINE="2748,2528 2840,2523 2933,2518 3025,2513 3118,2506 3210,2502 3303,2498 3395,2493 3488,2489 3580,2485 3673,2481 3765,2476 3858,2472 3950,2469 4043,2464 4135,2460 4228,2456 4320,2452 4413,2447 4505,2442 4598,2438"
+                         HEIGHT="171"
+                         WIDTH="1850"
+                         VPOS="2384"
+                         HPOS="2748">
+                  <String HEIGHT="171"
+                          WIDTH="171"
+                          VPOS="2384"
+                          HPOS="2720"
+                          CONTENT="en"/>
+                  <SP HEIGHT="171" WIDTH="28" VPOS="2384" HPOS="2890"/>
+                  <String HEIGHT="171"
+                          WIDTH="342"
+                          VPOS="2384"
+                          HPOS="2805"
+                          CONTENT="Onsdagen"/>
+                  <SP HEIGHT="171" WIDTH="28" VPOS="2384" HPOS="3146"/>
+                  <String HEIGHT="171"
+                          WIDTH="199"
+                          VPOS="2384"
+                          HPOS="3061"
+                          CONTENT="den"/>
+                  <SP HEIGHT="171" WIDTH="28" VPOS="2384" HPOS="3260"/>
+                  <String HEIGHT="171"
+                          WIDTH="171"
+                          VPOS="2384"
+                          HPOS="3175"
+                          CONTENT="18"/>
+                  <SP HEIGHT="171" WIDTH="28" VPOS="2384" HPOS="3346"/>
+                  <String HEIGHT="171"
+                          WIDTH="171"
+                          VPOS="2384"
+                          HPOS="3260"
+                          CONTENT="ds"/>
+                  <SP HEIGHT="171" WIDTH="28" VPOS="2384" HPOS="3431"/>
+                  <String HEIGHT="171"
+                          WIDTH="342"
+                          VPOS="2384"
+                          HPOS="3346"
+                          CONTENT="utgifven"/>
+                  <SP HEIGHT="171" WIDTH="28" VPOS="2384" HPOS="3687"/>
+                  <String HEIGHT="171"
+                          WIDTH="370"
+                          VPOS="2384"
+                          HPOS="3602"
+                          CONTENT="pantsedel"/>
+                  <SP HEIGHT="171" WIDTH="28" VPOS="2384" HPOS="3972"/>
+                  <String HEIGHT="171"
+                          WIDTH="142"
+                          VPOS="2384"
+                          HPOS="3886"
+                          CONTENT="å"/>
+                  <SP HEIGHT="171" WIDTH="28" VPOS="2384" HPOS="4029"/>
+                  <String HEIGHT="171"
+                          WIDTH="171"
+                          VPOS="2384"
+                          HPOS="3943"
+                          CONTENT="en"/>
+                  <SP HEIGHT="171" WIDTH="28" VPOS="2384" HPOS="4114"/>
+                  <String HEIGHT="171"
+                          WIDTH="398"
+                          VPOS="2384"
+                          HPOS="4029"
+                          CONTENT="ylletröja;"/>
+                  <SP HEIGHT="171" WIDTH="28" VPOS="2384" HPOS="4427"/>
+                  <String HEIGHT="171"
+                          WIDTH="313"
+                          VPOS="2384"
+                          HPOS="4342"
+                          CONTENT="belånad"/>
+                  <SP HEIGHT="171" WIDTH="28" VPOS="2384" HPOS="4655"/>
+                  <String HEIGHT="171" WIDTH="57" VPOS="2384" HPOS="4541" CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r2l21"
+                         BASELINE="2750,2640 2839,2634 2929,2629 3019,2623 3109,2617 3199,2611 3288,2606 3378,2602 3468,2597 3558,2592 3648,2587 3737,2583 3827,2578 3917,2574 4007,2570 4097,2566 4186,2562 4276,2558 4366,2554 4456,2550 4546,2546"
+                         HEIGHT="172"
+                         WIDTH="1796"
+                         VPOS="2494"
+                         HPOS="2750">
+                  <String HEIGHT="172"
+                          WIDTH="251"
+                          VPOS="2494"
+                          HPOS="2714"
+                          CONTENT="med"/>
+                  <SP HEIGHT="172" WIDTH="36" VPOS="2494" HPOS="2966"/>
+                  <String HEIGHT="172"
+                          WIDTH="216"
+                          VPOS="2494"
+                          HPOS="2858"
+                          CONTENT="En"/>
+                  <SP HEIGHT="172" WIDTH="36" VPOS="2494" HPOS="3073"/>
+                  <String HEIGHT="172"
+                          WIDTH="359"
+                          VPOS="2494"
+                          HPOS="2966"
+                          CONTENT="Krona,"/>
+                  <SP HEIGHT="172" WIDTH="36" VPOS="2494" HPOS="3325"/>
+                  <String HEIGHT="172"
+                          WIDTH="251"
+                          VPOS="2494"
+                          HPOS="3217"
+                          CONTENT="att"/>
+                  <SP HEIGHT="172" WIDTH="36" VPOS="2494" HPOS="3468"/>
+                  <String HEIGHT="172"
+                          WIDTH="216"
+                          VPOS="2494"
+                          HPOS="3361"
+                          CONTENT="få"/>
+                  <SP HEIGHT="172" WIDTH="36" VPOS="2494" HPOS="3576"/>
+                  <String HEIGHT="172"
+                          WIDTH="359"
+                          VPOS="2494"
+                          HPOS="3468"
+                          CONTENT="utlösa"/>
+                  <SP HEIGHT="172" WIDTH="36" VPOS="2494" HPOS="3828"/>
+                  <String HEIGHT="172"
+                          WIDTH="467"
+                          VPOS="2494"
+                          HPOS="3720"
+                          CONTENT="densamma."/>
+                  <SP HEIGHT="172" WIDTH="36" VPOS="2494" HPOS="4187"/>
+                  <String HEIGHT="172"
+                          WIDTH="503"
+                          VPOS="2494"
+                          HPOS="4043"
+                          CONTENT="Detektivkon¬"
+                          SUBS_TYPE="HypPart1"
+                          SUBS_CONTENT="Detektivkonstapeln"/>
+                  <HYP CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="r2l22"
+                         BASELINE="2744,2752 2835,2743 2926,2735 3017,2728 3108,2722 3199,2717 3290,2711 3381,2706 3472,2702 3563,2698 3655,2693 3746,2690 3837,2686 3928,2681 4019,2678 4110,2675 4201,2671 4292,2668 4383,2664 4474,2660 4566,2656"
+                         HEIGHT="174"
+                         WIDTH="1822"
+                         VPOS="2604"
+                         HPOS="2744">
+                  <String HEIGHT="174"
+                          WIDTH="352"
+                          VPOS="2604"
+                          HPOS="2712"
+                          CONTENT="stapeln"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="Detektivkonstapeln"/>
+                  <SP HEIGHT="174" WIDTH="32" VPOS="2604" HPOS="3064"/>
+                  <String HEIGHT="174"
+                          WIDTH="192"
+                          VPOS="2604"
+                          HPOS="2968"
+                          CONTENT="V."/>
+                  <SP HEIGHT="174" WIDTH="32" VPOS="2604" HPOS="3160"/>
+                  <String HEIGHT="174"
+                          WIDTH="320"
+                          VPOS="2604"
+                          HPOS="3064"
+                          CONTENT="Bruun,"/>
+                  <SP HEIGHT="174" WIDTH="32" VPOS="2604" HPOS="3383"/>
+                  <String HEIGHT="174"
+                          WIDTH="224"
+                          VPOS="2604"
+                          HPOS="3287"
+                          CONTENT="som"/>
+                  <SP HEIGHT="174" WIDTH="32" VPOS="2604" HPOS="3511"/>
+                  <String HEIGHT="174"
+                          WIDTH="224"
+                          VPOS="2604"
+                          HPOS="3415"
+                          CONTENT="vid"/>
+                  <SP HEIGHT="174" WIDTH="32" VPOS="2604" HPOS="3639"/>
+                  <String HEIGHT="174"
+                          WIDTH="479"
+                          VPOS="2604"
+                          HPOS="3543"
+                          CONTENT="ifrågakomne"/>
+                  <SP HEIGHT="174" WIDTH="32" VPOS="2604" HPOS="4023"/>
+                  <String HEIGHT="174"
+                          WIDTH="416"
+                          VPOS="2604"
+                          HPOS="3927"
+                          CONTENT="tillfälle"/>
+                  <SP HEIGHT="174" WIDTH="32" VPOS="2604" HPOS="4342"/>
+                  <String HEIGHT="174"
+                          WIDTH="352"
+                          VPOS="2604"
+                          HPOS="4246"
+                          CONTENT="innevar"/>
+                  <SP HEIGHT="174" WIDTH="32" VPOS="2604" HPOS="4598"/>
+                  <String HEIGHT="174" WIDTH="96" VPOS="2604" HPOS="4470" CONTENT="å"/>
+               </TextLine>
+               <TextLine ID="r2l23"
+                         BASELINE="2730,2872 2820,2866 2910,2859 3001,2854 3091,2849 3182,2843 3272,2836 3362,2831 3453,2825 3543,2820 3634,2815 3724,2808 3814,2804 3905,2798 3995,2792 4086,2786 4176,2780 4266,2774 4357,2768 4447,2761 4538,2754"
+                         HEIGHT="199"
+                         WIDTH="1808"
+                         VPOS="2700"
+                         HPOS="2730">
+                  <String HEIGHT="199"
+                          WIDTH="678"
+                          VPOS="2700"
+                          HPOS="2698"
+                          CONTENT="pantlånekontoret,"/>
+                  <SP HEIGHT="199" WIDTH="32" VPOS="2700" HPOS="3376"/>
+                  <String HEIGHT="199"
+                          WIDTH="420"
+                          VPOS="2700"
+                          HPOS="3279"
+                          CONTENT="igenkände"/>
+                  <SP HEIGHT="199" WIDTH="32" VPOS="2700" HPOS="3699"/>
+                  <String HEIGHT="199"
+                          WIDTH="226"
+                          VPOS="2700"
+                          HPOS="3602"
+                          CONTENT="den"/>
+                  <SP HEIGHT="199" WIDTH="32" VPOS="2700" HPOS="3828"/>
+                  <String HEIGHT="199"
+                          WIDTH="194"
+                          VPOS="2700"
+                          HPOS="3731"
+                          CONTENT="af"/>
+                  <SP HEIGHT="199" WIDTH="32" VPOS="2700" HPOS="3925"/>
+                  <String HEIGHT="199"
+                          WIDTH="323"
+                          VPOS="2700"
+                          HPOS="3828"
+                          CONTENT="Breyel"/>
+                  <SP HEIGHT="199" WIDTH="32" VPOS="2700" HPOS="4151"/>
+                  <String HEIGHT="199"
+                          WIDTH="355"
+                          VPOS="2700"
+                          HPOS="4054"
+                          CONTENT="utlösta"/>
+                  <SP HEIGHT="199" WIDTH="32" VPOS="2700" HPOS="4409"/>
+                  <String HEIGHT="199"
+                          WIDTH="258"
+                          VPOS="2700"
+                          HPOS="4280"
+                          CONTENT="tröjan"/>
+               </TextLine>
+               <TextLine ID="r2l24"
+                         BASELINE="2758,2978 2849,2973 2941,2968 3032,2962 3124,2956 3216,2951 3307,2946 3399,2940 3490,2936 3582,2929 3674,2925 3765,2920 3857,2915 3948,2910 4040,2905 4132,2900 4223,2895 4315,2890 4406,2885 4498,2880 4590,2876"
+                         HEIGHT="183"
+                         WIDTH="1832"
+                         VPOS="2822"
+                         HPOS="2758">
+                  <String HEIGHT="183"
+                          WIDTH="266"
+                          VPOS="2822"
+                          HPOS="2725"
+                          CONTENT="vara"/>
+                  <SP HEIGHT="183" WIDTH="33" VPOS="2822" HPOS="2991"/>
+                  <String HEIGHT="183"
+                          WIDTH="433"
+                          VPOS="2822"
+                          HPOS="2891"
+                          CONTENT="densamma,"/>
+                  <SP HEIGHT="183" WIDTH="33" VPOS="2822" HPOS="3324"/>
+                  <String HEIGHT="183"
+                          WIDTH="233"
+                          VPOS="2822"
+                          HPOS="3224"
+                          CONTENT="som"/>
+                  <SP HEIGHT="183" WIDTH="33" VPOS="2822" HPOS="3457"/>
+                  <String HEIGHT="183"
+                          WIDTH="333"
+                          VPOS="2822"
+                          HPOS="3358"
+                          CONTENT="enligt"/>
+                  <SP HEIGHT="183" WIDTH="33" VPOS="2822" HPOS="3691"/>
+                  <String HEIGHT="183"
+                          WIDTH="333"
+                          VPOS="2822"
+                          HPOS="3591"
+                          CONTENT="Nymans"/>
+                  <SP HEIGHT="183" WIDTH="33" VPOS="2822" HPOS="3924"/>
+                  <String HEIGHT="183"
+                          WIDTH="400"
+                          VPOS="2822"
+                          HPOS="3824"
+                          CONTENT="anmälan,"/>
+                  <SP HEIGHT="183" WIDTH="33" VPOS="2822" HPOS="4224"/>
+                  <String HEIGHT="183"
+                          WIDTH="233"
+                          VPOS="2822"
+                          HPOS="4124"
+                          CONTENT="den"/>
+                  <SP HEIGHT="183" WIDTH="33" VPOS="2822" HPOS="4357"/>
+                  <String HEIGHT="183"
+                          WIDTH="266"
+                          VPOS="2822"
+                          HPOS="4257"
+                          CONTENT="18de"/>
+                  <SP HEIGHT="183" WIDTH="33" VPOS="2822" HPOS="4523"/>
+                  <String HEIGHT="183"
+                          WIDTH="200"
+                          VPOS="2822"
+                          HPOS="4390"
+                          CONTENT="från"/>
+               </TextLine>
+               <TextLine ID="r2l25"
+                         BASELINE="2756,3088 2844,3082 2933,3077 3022,3072 3110,3066 3199,3063 3288,3058 3376,3054 3465,3050 3554,3046 3643,3041 3731,3036 3820,3032 3909,3028 3997,3023 4086,3018 4175,3012 4263,3007 4352,3001 4441,2994 4530,2986"
+                         HEIGHT="180"
+                         WIDTH="1774"
+                         VPOS="2934"
+                         HPOS="2756">
+                  <String HEIGHT="180"
+                          WIDTH="280"
+                          VPOS="2934"
+                          HPOS="2725"
+                          CONTENT="honom"/>
+                  <SP HEIGHT="180" WIDTH="31" VPOS="2934" HPOS="3005"/>
+                  <String HEIGHT="180"
+                          WIDTH="498"
+                          VPOS="2934"
+                          HPOS="2912"
+                          CONTENT="tillgripits;"/>
+                  <SP HEIGHT="180" WIDTH="31" VPOS="2934" HPOS="3410"/>
+                  <String HEIGHT="180"
+                          WIDTH="156"
+                          VPOS="2934"
+                          HPOS="3316"
+                          CONTENT="i"/>
+                  <SP HEIGHT="180" WIDTH="31" VPOS="2934" HPOS="3472"/>
+                  <String HEIGHT="180"
+                          WIDTH="405"
+                          VPOS="2934"
+                          HPOS="3378"
+                          CONTENT="anledning"/>
+                  <SP HEIGHT="180" WIDTH="31" VPOS="2934" HPOS="3783"/>
+                  <String HEIGHT="180"
+                          WIDTH="311"
+                          VPOS="2934"
+                          HPOS="3690"
+                          CONTENT="hvaraf"/>
+                  <SP HEIGHT="180" WIDTH="31" VPOS="2934" HPOS="4001"/>
+                  <String HEIGHT="180"
+                          WIDTH="311"
+                          VPOS="2934"
+                          HPOS="3908"
+                          CONTENT="Breyel"/>
+                  <SP HEIGHT="180" WIDTH="31" VPOS="2934" HPOS="4219"/>
+                  <String HEIGHT="180"
+                          WIDTH="436"
+                          VPOS="2934"
+                          HPOS="4094"
+                          CONTENT="tillfrågades"/>
+               </TextLine>
+               <TextLine ID="r2l26"
+                         BASELINE="2748,3200 2839,3193 2931,3185 3023,3180 3115,3174 3207,3168 3299,3164 3391,3160 3483,3157 3575,3154 3667,3150 3758,3148 3850,3144 3942,3142 4034,3138 4126,3134 4218,3132 4310,3126 4402,3122 4494,3116 4586,3110"
+                         HEIGHT="168"
+                         WIDTH="1838"
+                         VPOS="3058"
+                         HPOS="2748">
+                  <String HEIGHT="168"
+                          WIDTH="193"
+                          VPOS="3058"
+                          HPOS="2716"
+                          CONTENT="om"/>
+                  <SP HEIGHT="168" WIDTH="32" VPOS="3058" HPOS="2909"/>
+                  <String HEIGHT="168"
+                          WIDTH="419"
+                          VPOS="3058"
+                          HPOS="2812"
+                          CONTENT="åtkomsten"/>
+                  <SP HEIGHT="168" WIDTH="32" VPOS="3058" HPOS="3232"/>
+                  <String HEIGHT="168"
+                          WIDTH="258"
+                          VPOS="3058"
+                          HPOS="3135"
+                          CONTENT="till"/>
+                  <SP HEIGHT="168" WIDTH="32" VPOS="3058" HPOS="3393"/>
+                  <String HEIGHT="168"
+                          WIDTH="484"
+                          VPOS="3058"
+                          HPOS="3296"
+                          CONTENT="pantsedlen,"/>
+                  <SP HEIGHT="168" WIDTH="32" VPOS="3058" HPOS="3780"/>
+                  <String HEIGHT="168"
+                          WIDTH="355"
+                          VPOS="3058"
+                          HPOS="3683"
+                          CONTENT="hvarvid"/>
+                  <SP HEIGHT="168" WIDTH="32" VPOS="3058" HPOS="4038"/>
+                  <String HEIGHT="168"
+                          WIDTH="226"
+                          VPOS="3058"
+                          HPOS="3941"
+                          CONTENT="han"/>
+                  <SP HEIGHT="168" WIDTH="32" VPOS="3058" HPOS="4167"/>
+                  <String HEIGHT="168"
+                          WIDTH="355"
+                          VPOS="3058"
+                          HPOS="4070"
+                          CONTENT="uppgaf,"/>
+                  <SP HEIGHT="168" WIDTH="32" VPOS="3058" HPOS="4425"/>
+                  <String HEIGHT="168"
+                          WIDTH="226"
+                          VPOS="3058"
+                          HPOS="4328"
+                          CONTENT="att"/>
+                  <SP HEIGHT="168" WIDTH="32" VPOS="3058" HPOS="4554"/>
+                  <String HEIGHT="168"
+                          WIDTH="161"
+                          VPOS="3058"
+                          HPOS="4425"
+                          CONTENT="han"/>
+               </TextLine>
+               <TextLine ID="r2l27"
+                         BASELINE="2744,3306 2834,3299 2924,3294 3014,3290 3104,3285 3194,3281 3284,3277 3374,3273 3464,3270 3554,3267 3644,3264 3734,3261 3824,3258 3914,3256 4004,3254 4094,3252 4184,3249 4274,3246 4364,3244 4454,3242 4544,3240"
+                         HEIGHT="144"
+                         WIDTH="1800"
+                         VPOS="3188"
+                         HPOS="2744">
+                  <String HEIGHT="144"
+                          WIDTH="262"
+                          VPOS="3188"
+                          HPOS="2711"
+                          CONTENT="kort"/>
+                  <SP HEIGHT="144" WIDTH="33" VPOS="3188" HPOS="2973"/>
+                  <String HEIGHT="144"
+                          WIDTH="295"
+                          VPOS="3188"
+                          HPOS="2875"
+                          CONTENT="förut"/>
+                  <SP HEIGHT="144" WIDTH="33" VPOS="3188" HPOS="3169"/>
+                  <String HEIGHT="144"
+                          WIDTH="229"
+                          VPOS="3188"
+                          HPOS="3071"
+                          CONTENT="vid"/>
+                  <SP HEIGHT="144" WIDTH="33" VPOS="3188" HPOS="3300"/>
+                  <String HEIGHT="144"
+                          WIDTH="458"
+                          VPOS="3188"
+                          HPOS="3202"
+                          CONTENT="Fisktorget"/>
+                  <SP HEIGHT="144" WIDTH="33" VPOS="3188" HPOS="3660"/>
+                  <String HEIGHT="144"
+                          WIDTH="229"
+                          VPOS="3188"
+                          HPOS="3562"
+                          CONTENT="för"/>
+                  <SP HEIGHT="144" WIDTH="33" VPOS="3188" HPOS="3791"/>
+                  <String HEIGHT="144"
+                          WIDTH="196"
+                          VPOS="3188"
+                          HPOS="3693"
+                          CONTENT="En"/>
+                  <SP HEIGHT="144" WIDTH="33" VPOS="3188" HPOS="3889"/>
+                  <String HEIGHT="144"
+                          WIDTH="295"
+                          VPOS="3188"
+                          HPOS="3791"
+                          CONTENT="Krona"/>
+                  <SP HEIGHT="144" WIDTH="33" VPOS="3188" HPOS="4086"/>
+                  <String HEIGHT="144"
+                          WIDTH="262"
+                          VPOS="3188"
+                          HPOS="3988"
+                          CONTENT="köpt"/>
+                  <SP HEIGHT="144" WIDTH="33" VPOS="3188" HPOS="4249"/>
+                  <String HEIGHT="144"
+                          WIDTH="393"
+                          VPOS="3188"
+                          HPOS="4151"
+                          CONTENT="densamma"/>
+                  <SP HEIGHT="144" WIDTH="33" VPOS="3188" HPOS="4544"/>
+                  <String HEIGHT="144"
+                          WIDTH="131"
+                          VPOS="3188"
+                          HPOS="4413"
+                          CONTENT="af"/>
+               </TextLine>
+               <TextLine ID="r2l28"
+                         BASELINE="2738,3418 2787,3415 2836,3413 2885,3410 2934,3408 2984,3406 3033,3404 3082,3402 3131,3399 3180,3397 3230,3395 3279,3394 3328,3392 3377,3390 3426,3388 3476,3388 3525,3386 3574,3384 3623,3383 3672,3382 3722,3380"
+                         HEIGHT="105"
+                         WIDTH="984"
+                         VPOS="3335"
+                         HPOS="2738">
+                  <String HEIGHT="105"
+                          WIDTH="197"
+                          VPOS="3335"
+                          HPOS="2705"
+                          CONTENT="en"/>
+                  <SP HEIGHT="105" WIDTH="33" VPOS="3335" HPOS="2902"/>
+                  <String HEIGHT="105"
+                          WIDTH="230"
+                          VPOS="3335"
+                          HPOS="2804"
+                          CONTENT="för"/>
+                  <SP HEIGHT="105" WIDTH="33" VPOS="3335" HPOS="3033"/>
+                  <String HEIGHT="105"
+                          WIDTH="295"
+                          VPOS="3335"
+                          HPOS="2935"
+                          CONTENT="honom"/>
+                  <SP HEIGHT="105" WIDTH="33" VPOS="3335" HPOS="3230"/>
+                  <String HEIGHT="105"
+                          WIDTH="295"
+                          VPOS="3335"
+                          HPOS="3132"
+                          CONTENT="okänd"/>
+                  <SP HEIGHT="105" WIDTH="33" VPOS="3335" HPOS="3427"/>
+                  <String HEIGHT="105"
+                          WIDTH="426"
+                          VPOS="3335"
+                          HPOS="3296"
+                          CONTENT="mansperson."/>
+               </TextLine>
+               <TextLine ID="r2l29"
+                         BASELINE="2840,3504 2926,3502 3012,3500 3099,3498 3185,3496 3272,3494 3358,3492 3444,3490 3531,3488 3617,3487 3704,3485 3790,3483 3876,3481 3963,3480 4049,3478 4136,3476 4222,3474 4308,3472 4395,3470 4481,3470 4568,3468"
+                         HEIGHT="103"
+                         WIDTH="1728"
+                         VPOS="3423"
+                         HPOS="2840">
+                  <String HEIGHT="103"
+                          WIDTH="328"
+                          VPOS="3423"
+                          HPOS="2810"
+                          CONTENT="Berörde"/>
+                  <SP HEIGHT="103" WIDTH="30" VPOS="3423" HPOS="3138"/>
+                  <String HEIGHT="103"
+                          WIDTH="328"
+                          VPOS="3423"
+                          HPOS="3049"
+                          CONTENT="person,"/>
+                  <SP HEIGHT="103" WIDTH="30" VPOS="3423" HPOS="3376"/>
+                  <String HEIGHT="103"
+                          WIDTH="209"
+                          VPOS="3423"
+                          HPOS="3287"
+                          CONTENT="som"/>
+                  <SP HEIGHT="103" WIDTH="30" VPOS="3423" HPOS="3495"/>
+                  <String HEIGHT="103"
+                          WIDTH="238"
+                          VPOS="3423"
+                          HPOS="3406"
+                          CONTENT="kort"/>
+                  <SP HEIGHT="103" WIDTH="30" VPOS="3423" HPOS="3644"/>
+                  <String HEIGHT="103"
+                          WIDTH="358"
+                          VPOS="3423"
+                          HPOS="3555"
+                          CONTENT="derefter"/>
+                  <SP HEIGHT="103" WIDTH="30" VPOS="3423" HPOS="3913"/>
+                  <String HEIGHT="103"
+                          WIDTH="447"
+                          VPOS="3423"
+                          HPOS="3823"
+                          CONTENT="anträffades"/>
+                  <SP HEIGHT="103" WIDTH="30" VPOS="3423" HPOS="4270"/>
+                  <String HEIGHT="103"
+                          WIDTH="179"
+                          VPOS="3423"
+                          HPOS="4181"
+                          CONTENT="af"/>
+                  <SP HEIGHT="103" WIDTH="30" VPOS="3423" HPOS="4359"/>
+                  <String HEIGHT="103"
+                          WIDTH="268"
+                          VPOS="3423"
+                          HPOS="4270"
+                          CONTENT="Bruun"/>
+                  <SP HEIGHT="103" WIDTH="30" VPOS="3423" HPOS="4538"/>
+                  <String HEIGHT="103"
+                          WIDTH="149"
+                          VPOS="3423"
+                          HPOS="4419"
+                          CONTENT="och"/>
+               </TextLine>
+               <TextLine ID="r2l30"
+                         BASELINE="2744,3620 2834,3616 2925,3614 3016,3612 3106,3610 3197,3608 3288,3606 3378,3606 3469,3604 3560,3602 3651,3602 3741,3600 3832,3598 3923,3596 4013,3596 4104,3594 4195,3591 4285,3588 4376,3586 4467,3582 4558,3578"
+                         HEIGHT="123"
+                         WIDTH="1814"
+                         VPOS="3524"
+                         HPOS="2744">
+                  <String HEIGHT="123"
+                          WIDTH="344"
+                          VPOS="3524"
+                          HPOS="2713"
+                          CONTENT="befanns"/>
+                  <SP HEIGHT="123" WIDTH="31" VPOS="3524" HPOS="3057"/>
+                  <String HEIGHT="123"
+                          WIDTH="250"
+                          VPOS="3524"
+                          HPOS="2963"
+                          CONTENT="vara"/>
+                  <SP HEIGHT="123" WIDTH="31" VPOS="3524" HPOS="3213"/>
+                  <String HEIGHT="123"
+                          WIDTH="500"
+                          VPOS="3524"
+                          HPOS="3119"
+                          CONTENT="Arbetskarlen"/>
+                  <SP HEIGHT="123" WIDTH="31" VPOS="3524" HPOS="3620"/>
+                  <String HEIGHT="123"
+                          WIDTH="313"
+                          VPOS="3524"
+                          HPOS="3526"
+                          CONTENT="Anders"/>
+                  <SP HEIGHT="123" WIDTH="31" VPOS="3524" HPOS="3839"/>
+                  <String HEIGHT="123"
+                          WIDTH="438"
+                          VPOS="3524"
+                          HPOS="3745"
+                          CONTENT="Johansson,"/>
+                  <SP HEIGHT="123" WIDTH="31" VPOS="3524" HPOS="4183"/>
+                  <String HEIGHT="123"
+                          WIDTH="313"
+                          VPOS="3524"
+                          HPOS="4089"
+                          CONTENT="boende"/>
+                  <SP HEIGHT="123" WIDTH="31" VPOS="3524" HPOS="4402"/>
+                  <String HEIGHT="123"
+                          WIDTH="156"
+                          VPOS="3524"
+                          HPOS="4308"
+                          CONTENT="i"/>
+                  <SP HEIGHT="123" WIDTH="31" VPOS="3524" HPOS="4464"/>
+                  <String HEIGHT="123"
+                          WIDTH="219"
+                          VPOS="3524"
+                          HPOS="4339"
+                          CONTENT="huset"/>
+               </TextLine>
+               <TextLine ID="r2l31"
+                         BASELINE="2744,3734 2835,3730 2927,3726 3018,3722 3110,3720 3201,3718 3293,3715 3384,3714 3476,3712 3567,3710 3659,3710 3750,3708 3842,3706 3933,3706 4025,3704 4116,3703 4208,3702 4299,3700 4391,3698 4482,3696 4574,3692"
+                         HEIGHT="117"
+                         WIDTH="1830"
+                         VPOS="3642"
+                         HPOS="2744">
+                  <String HEIGHT="117"
+                          WIDTH="189"
+                          VPOS="3642"
+                          HPOS="2712"
+                          CONTENT="No"/>
+                  <SP HEIGHT="117" WIDTH="32" VPOS="3642" HPOS="2902"/>
+                  <String HEIGHT="117"
+                          WIDTH="221"
+                          VPOS="3642"
+                          HPOS="2807"
+                          CONTENT="106"/>
+                  <SP HEIGHT="117" WIDTH="32" VPOS="3642" HPOS="3028"/>
+                  <String HEIGHT="117"
+                          WIDTH="189"
+                          VPOS="3642"
+                          HPOS="2933"
+                          CONTENT="af"/>
+                  <SP HEIGHT="117" WIDTH="32" VPOS="3642" HPOS="3123"/>
+                  <String HEIGHT="117"
+                          WIDTH="379"
+                          VPOS="3642"
+                          HPOS="3028"
+                          CONTENT="Majornas"/>
+                  <SP HEIGHT="117" WIDTH="32" VPOS="3642" HPOS="3407"/>
+                  <String HEIGHT="117"
+                          WIDTH="316"
+                          VPOS="3642"
+                          HPOS="3312"
+                          CONTENT="Tredje"/>
+                  <SP HEIGHT="117" WIDTH="32" VPOS="3642" HPOS="3627"/>
+                  <String HEIGHT="117"
+                          WIDTH="284"
+                          VPOS="3642"
+                          HPOS="3533"
+                          CONTENT="rote,"/>
+                  <SP HEIGHT="117" WIDTH="32" VPOS="3642" HPOS="3817"/>
+                  <String HEIGHT="117"
+                          WIDTH="347"
+                          VPOS="3642"
+                          HPOS="3722"
+                          CONTENT="uppgaf,"/>
+                  <SP HEIGHT="117" WIDTH="32" VPOS="3642" HPOS="4069"/>
+                  <String HEIGHT="117"
+                          WIDTH="221"
+                          VPOS="3642"
+                          HPOS="3975"
+                          CONTENT="att"/>
+                  <SP HEIGHT="117" WIDTH="32" VPOS="3642" HPOS="4195"/>
+                  <String HEIGHT="117"
+                          WIDTH="221"
+                          VPOS="3642"
+                          HPOS="4101"
+                          CONTENT="han"/>
+                  <SP HEIGHT="117" WIDTH="32" VPOS="3642" HPOS="4322"/>
+                  <String HEIGHT="117"
+                          WIDTH="252"
+                          VPOS="3642"
+                          HPOS="4227"
+                          CONTENT="kort"/>
+                  <SP HEIGHT="117" WIDTH="32" VPOS="3642" HPOS="4479"/>
+                  <String HEIGHT="117"
+                          WIDTH="221"
+                          VPOS="3642"
+                          HPOS="4353"
+                          CONTENT="innan"/>
+               </TextLine>
+               <TextLine ID="r2l32"
+                         BASELINE="2744,3838 2834,3832 2925,3828 3016,3826 3107,3822 3198,3820 3289,3818 3380,3816 3471,3814 3562,3814 3653,3812 3743,3812 3834,3812 3925,3812 4016,3810 4107,3810 4198,3810 4289,3809 4380,3808 4471,3807 4562,3806"
+                         HEIGHT="107"
+                         WIDTH="1818"
+                         VPOS="3756"
+                         HPOS="2744">
+                  <String HEIGHT="107"
+                          WIDTH="212"
+                          VPOS="3756"
+                          HPOS="2714"
+                          CONTENT="han"/>
+                  <SP HEIGHT="107" WIDTH="30" VPOS="3756" HPOS="2926"/>
+                  <String HEIGHT="107"
+                          WIDTH="242"
+                          VPOS="3756"
+                          HPOS="2835"
+                          CONTENT="till"/>
+                  <SP HEIGHT="107" WIDTH="30" VPOS="3756" HPOS="3077"/>
+                  <String HEIGHT="107"
+                          WIDTH="303"
+                          VPOS="3756"
+                          HPOS="2986"
+                          CONTENT="Breyel"/>
+                  <SP HEIGHT="107" WIDTH="30" VPOS="3756" HPOS="3289"/>
+                  <String HEIGHT="107"
+                          WIDTH="333"
+                          VPOS="3756"
+                          HPOS="3199"
+                          CONTENT="försålt"/>
+                  <SP HEIGHT="107" WIDTH="30" VPOS="3756" HPOS="3532"/>
+                  <String HEIGHT="107"
+                          WIDTH="424"
+                          VPOS="3756"
+                          HPOS="3441"
+                          CONTENT="pantsedeln"/>
+                  <SP HEIGHT="107" WIDTH="30" VPOS="3756" HPOS="3865"/>
+                  <String HEIGHT="107"
+                          WIDTH="182"
+                          VPOS="3756"
+                          HPOS="3774"
+                          CONTENT="på"/>
+                  <SP HEIGHT="107" WIDTH="30" VPOS="3756" HPOS="3956"/>
+                  <String HEIGHT="107"
+                          WIDTH="212"
+                          VPOS="3756"
+                          HPOS="3865"
+                          CONTENT="ett"/>
+                  <SP HEIGHT="107" WIDTH="30" VPOS="3756" HPOS="4077"/>
+                  <String HEIGHT="107"
+                          WIDTH="545"
+                          VPOS="3756"
+                          HPOS="3986"
+                          CONTENT="bolagsvärdshus"/>
+                  <SP HEIGHT="107" WIDTH="30" VPOS="3756" HPOS="4532"/>
+                  <String HEIGHT="107"
+                          WIDTH="152"
+                          VPOS="3756"
+                          HPOS="4411"
+                          CONTENT="vid"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
