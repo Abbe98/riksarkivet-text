@@ -6,7 +6,7 @@ with open('original-manifest.json') as json_file:
 for canvas in original_mainfest_data['items']:
     id = canvas['id']
     # extract the numeric id from the uri (https://lbiiif.riksarkivet.se/arkis!30003111_00004/canvas -> 30003111_00004)
-    id = id.split('/')[-2]
+    id = id.split('/')[-2].split('!')[-1]
 
     canvas['seeAlso'] = {
         '@id': f'https://byabbe.se/riksarkivet-text/alto/{id}.xml',
