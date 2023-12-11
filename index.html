@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riksarkivet: Fulltextsök med IIIF och ALTO-XML</title>
+    <link rel="stylesheet" href="https://byabbe.se/css/style.css">
+    <style>
+        img {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Riksarkivet: Fulltextsök med IIIF och ALTO-XML</h1>
+        <h2>Instruktion</h2>
+        <p>Kopiera följande manifest URI:</p>
+        <code>https://byabbe.se/riksarkivet-text/enriched_manifest.json</code>
+        <p>Gå till en Mirador-instans med plugin-verktyget <code>mirador-textoverlay</code> så som följande instans: <a href="https://mirador-textoverlay.netlify.app/" target="_blank">Mirador-textoverlay demo</a>.</p>
+        <p>Klicka på knappen för att lägga till en resurs i det övrevänstra hörnet:</p>
+        <img src="images/mirador-menubar.png" alt="Skärmdump av Miradors meny.">
+        <p>Klicka nu på "Add resource" i det nedrehögra hörnet och klistra sedan in manifest URIn från ovan och klicka på "add" till höger.</p>
+        <img src="images/mirador-add-resource.png" alt="Skärmdump av Miradors 'add resource' fönster.">
+        <p>Nu bör du kunna se dokumentet "Göteborgs poliskammare före 1900, Detektiva polisens rapportböcker, SE/GLA/12703/A II/12 (1880)."</p>
+        <p>Om allt gått bra med HTR/ALTO-XML kopplingen bör du nu kunna:
+            <ul>
+                <li>Söka i texten genom att klicka <kbd>Ctrl</kbd>+<kbd>f</kbd></li>
+                <li>Välja HTR versionen av texten med musen</li>
+                <li>Välja att alltid visa HTR-texten på dokumentet</li>
+                <li>Ändra bakgrundsfärg och textfärg för HTR-texten</li>
+            </ul>
+        </p>
+        <p>Notera att i exemplet ovan skalas vissa ord konstigt.</p>
+
+        <h2>Hur det fungerar</h2>
+        <p>Först och främst har Riksarkivets ALTO-XML publicerats med URIer:</p>
+        <code><a href="https://byabbe.se/riksarkivet-text/alto/30003111_00001.xml" target="_blank">https://byabbe.se/riksarkivet-text/alto/30003111_00001.xml</a></code>
+        <p>Därefter har alla <code>Canvas</code> instanser i Riksarkivets IIIF menifest berikasts med en <code>rdfs:seeAlso</code> relation till respektive ALTO-dokument.</p>
+        <p>Ovanstående är allt som behövs för att plugin-verktyget <code>mirador-textoverlay</code> ska kunna hitta, läsa och rendera HTR/OCR text.</p>
+    </main>
+</body>
+</html>
