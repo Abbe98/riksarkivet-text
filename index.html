@@ -39,6 +39,11 @@
         <p>Först och främst har Riksarkivets ALTO-XML publicerats med URIer:</p>
         <code><a href="https://byabbe.se/riksarkivet-text/alto/30003111_00001.xml" target="_blank">https://byabbe.se/riksarkivet-text/alto/30003111_00001.xml</a></code>
         <p>Därefter har alla <code>Canvas</code> instanser i Riksarkivets IIIF menifest berikasts med en <code>rdfs:seeAlso</code> relation till respektive ALTO-dokument.</p>
+        <code>"seeAlso": {
+    "@id": "https://byabbe.se/riksarkivet-text/alto/30003111_00001.xml",
+    "profile": "http://www.loc.gov/standards/alto/ns-v4#",
+    "format": "application/xml"
+}</code>
         <p>Ovanstående är allt som behövs för att plugin-verktyget <code>mirador-textoverlay</code> ska kunna hitta, läsa och rendera HTR/OCR text.</p>
     </main>
 </body>
